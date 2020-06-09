@@ -1,0 +1,11 @@
+framework module Banked {
+  umbrella header "Banked.h"
+
+  export *
+  module * { export * }
+}
+
+module Banked.Swift {
+    header "Banked-Swift.h"
+    requires objc
+}
