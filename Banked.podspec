@@ -94,7 +94,7 @@ Pod::Spec.new do |spec|
 
   # spec.public_header_files = "Classes/**/*.h"
   
-   spec.resources = "banked-iOS/Banked.framework/*.{otf,json,xib,xcassets}"
+   spec.resources = "**/Banked.framework/*.{otf,json,xib,xcassets}"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
