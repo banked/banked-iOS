@@ -1,12 +1,12 @@
 # Banked Checkout SDK
 \
-The Banked SDK offers an interface for processing a PaymentSession created using the Banked API.
+The Banked SDK offers an interface for processing a PaymentSession created using the Banked API.\
 
 ## Installation
 \
-Use [Cocoapods](https://cocoapods.org/) to install the Banked Checkout SDK
+Use [Cocoapods](https://cocoapods.org/) to install the Banked Checkout SDK\
 \
-To integrate Banked Checkout SDK into your Xcode project using CocoaPods, specify it in your Podfile:
+To integrate Banked Checkout SDK into your Xcode project using CocoaPods, specify it in your Podfile:\
 
 ```swift
 pod ‘Banked’, :git => ‘https://github.com/banked/banked-iOS.git’
@@ -47,7 +47,7 @@ IMPORTANT - You must provide a callback URL as part of the `PaymentSession` whic
 \
 This uses the custom URL Scheme you setup previously. We recommend including the Payment ID as part of the callback in order to easily handle the incoming re-directs\
 \
-An example of this might be `my-app-name-banked://callback/<PAYMENT ID>`
+An example of this might be `https://my-app-name-banked/callback/?id=__PAYMENT_ID__`
 
 ### 5. Present the BankedCheckout for your PaymentSession
 \
