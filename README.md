@@ -16,9 +16,9 @@ pod ‘Banked’, :git => ‘https://github.com/banked/banked-iOS.git’
 
 ### 1. Register a URL Scheme for callbacks
 \
-Once a user has selected a Bank from the list they are re-directed to the Bank's App (if installed) or website to authorise the payment. Once this is complete (or is cancelled/fails) we re-direct *back* to your application where you can handle this (usually in your App Delegate)\
+Once a user has selected a bank from the list, they are re-directed to the Bank's App (if installed) or website to authorise the payment. Once this is complete (or cancels/fails) we re-direct *back* to your application where you can handle this (usually in your App Delegate)\
 \
-An example of this might be `my-app-name-banked://`
+An example of a custom URL scheme might be `my-app-name-banked://` - it is worth noting that other developers will be using the Banked SDK - so adding your app name rather than just 'banked' will avoid any conflicts :-)
 \
 Please find more details in the [Apple Developer Documentation](https://developer.apple.com/documentation/uikit/inter-process_communication/allowing_apps_and_websites_to_link_to_your_content/defining_a_custom_url_scheme_for_your_app) 
 
