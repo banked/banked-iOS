@@ -67,9 +67,12 @@ The completion block returns a `CheckoutResponse` when the Checkout is either a 
 
 ```swift
 BankedCheckout.presentCheckout(self, paymentId: "PAYMENT ID", action: .pay){ (response) in
-    if response == .success {
-      // Handle Success
-    }
+    switch response {
+        case .success:
+            // Handle success
+        case .failure(let error):
+            // Handle failure with error
+            }
 }
 ```
 
