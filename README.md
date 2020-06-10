@@ -18,9 +18,9 @@ pod ‘Banked’, :git => ‘https://github.com/banked/banked-iOS.git’
 \
 Once a user has selected a bank from the list in the Checkout, they are re-directed to the Bank's Application (if installed) or website to authorise the payment. After authorisation is complete (or fails) we need to return the user to your application via a URL you provide - currently we support this via Universal Links
 
----
-**TODO - Details from Tom/Kristina**
----
+The reason we recommend Universal Links is that the PaymentSession _could_ be processed in an iOS app via the Checkout, or potentially on desktop (e.g. if you have a web version) - Universal Links mean that you can handle both scenarios as you see fit.
+
+Once you setup Universal Links, the app can handle the incoming callback appropriately.
 
 Please find more details about setting up Universal Links in the [Apple Developer Documentation](https://developer.apple.com/documentation/uikit/inter-process_communication/allowing_apps_and_websites_to_link_to_your_content) 
 
@@ -45,11 +45,12 @@ BankedCheckout.setUp(dataAPIKey: "CLIENT KEY")
 
 Use the `Banked API` to create a `PaymentSession`. Please read the API documentation for more detail - [Banked API - Generating a Payment Session](https://developer.banked.com/docs/getting-started#3-generate-a-payment-session)
 
-IMPORTANT - You must provide a callback URL as part of the `PaymentSession` which will return your users to your application once they have authorised the payment.
+IMPORTANT - You must provide a callback URLs as part of the `PaymentSession` which will return your users to your application once they have authorised the payment. There are success and failure redirects which you can specify - but as the app retrieves the PaymentSession when handling the callback, and this already has a more detailed status, its simplest to provide one callback URL.
 
----
-**TODO - Details from Tom/Kristina**
----
+In order to handle the callback later, you will need the Payment ID - which is automatically added by Banked. However you must provide a templated URL for us to do this. Please use `__PAYMENT_ID__` to indicate where to include the Payment ID.
+
+E.g. `https://mybusinessname.com/callback/__PAYMENT_ID__` or `https://mybusinessname.com/callback/?id=__PAYMENT_ID__`
+
 
 ### 5. Present the BankedCheckout for your PaymentSession
 
@@ -73,7 +74,9 @@ BankedCheckout.presentCheckout(self, paymentId: "PAYMENT ID", action: .pay){ (re
 
 ### 6. Handle callbacks after bank authorisation
 
-**TODO - Details from Tom/Kristina**
+Your Universal Links will automatically open the app after you leave the bank authorisatin flow, and you need to handle this within the App Delegate.
+
+
 
 
 ### Optional - Setup a Delegate for the BankedCheckout
