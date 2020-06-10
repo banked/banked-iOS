@@ -15,7 +15,7 @@ pod ‘Banked’, :git => ‘https://github.com/banked/banked-iOS.git’
 ## Usage
 
 ### 1. Setup Universal Links for callbacks
-\
+
 Once a user has selected a bank from the list in the Checkout, they are re-directed to the Bank's Application (if installed) or website to authorise the payment. After authorisation is complete (or fails) we need to return the user to your application via a URL you provide - currently we support this via Universal Links
 
 The reason we recommend Universal Links is that the PaymentSession _could_ be processed in an iOS app via the Checkout, or potentially on desktop (e.g. if you have a web version) - Universal Links mean that you can handle both scenarios as you see fit.
