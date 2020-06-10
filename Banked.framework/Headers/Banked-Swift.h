@@ -206,8 +206,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
-SWIFT_CLASS("_TtC6Banked22BankedCheckouViewModel")
-@interface BankedCheckouViewModel : NSObject
+SWIFT_CLASS("_TtC6Banked14BankedCheckout")
+@interface BankedCheckout : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
