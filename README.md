@@ -14,13 +14,13 @@ pod ‘Banked’, :git => ‘https://github.com/banked/banked-iOS.git’
 
 ## Usage
 
-### 1. Register a URL Scheme for callbacks
+### 1. Setup Universal Links for callbacks
 \
-Once a user has selected a bank from the list, they are re-directed to the Bank's App (if installed) or website to authorise the payment. Once this is complete (or cancels/fails) we re-direct *back* to your application where you can handle this (usually in your App Delegate)\
+Once a user has selected a bank from the list in the Checkout, they are re-directed to the Bank's Application (if installed) or website to authorise the payment. After authorisation is complete (or fails) we need to return the user to your application via a URL you provide - currently we support this via Universal Links
 \
-An example of a custom URL scheme might be `my-app-name-banked://` - it is worth noting that other developers will be using the Banked SDK - so adding your app name rather than just 'banked' will avoid any conflicts :-)
+TODO - Details from Tom/Kristina
 \
-Please find more details in the [Apple Developer Documentation](https://developer.apple.com/documentation/uikit/inter-process_communication/allowing_apps_and_websites_to_link_to_your_content/defining_a_custom_url_scheme_for_your_app) 
+Please find more details about setting up Universal Links in the [Apple Developer Documentation](https://developer.apple.com/documentation/uikit/inter-process_communication/allowing_apps_and_websites_to_link_to_your_content) 
 
 
 ### 2. Import the library
@@ -71,8 +71,7 @@ BankedCheckout.presentCheckout(self, paymentId: "PAYMENT ID", action: .pay){ (re
 
 ### 6. Handle callbacks after bank authorisation
 
-TODO
-
+TODO - Details from Tom/Kristina
 
 
 ### Optional - Setup a Delegate for the BankedCheckout
