@@ -20,7 +20,7 @@
   "PaymentSentSubtitle": "Thank you",
   "PaymentFailedTitle": "Something went wrong",
   "PaymentFailedSubtitle": "Payment has failed",
-  "NoInternetConnectionError": "Looks like you  don't have internet connection\nPlease try again",
+  "NoInternetConnectionError": "Looks like you don't have internet connection\nPlease try again",
   "InternalServerError": "Something went wrong\nPlease choose another bank.",
   "ProviderUnavailable": "Unavailable"
 }
