@@ -60,7 +60,7 @@ The action is a PaymentAction which is used to customise the Checkout appropriat
 You will also need to specify a continueURL - this will be used to redirect your users to once the payment has succeeded or failed.
 
 ```swift
-BankedCheckout.presentCheckout(self, paymentId: "PAYMENT ID", action: .pay, continueURL: "example.com"){ (response) in
+BankedCheckout.shared.presentCheckout(self, paymentId: "PAYMENT ID", action: .pay, continueURL: "example.com"){ (response) in
     switch response {
         case .success:
             // Handle success
