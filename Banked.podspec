@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Banked"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "Banked SDK"
   spec.description  = "Banked iOS checkout"
   spec.homepage     = "https://banked.com"
@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
   spec.public_header_files = "Banked.framework/Headers/*.h"
   spec.source_files  = "Banked.framework/Headers/*.{h}"
   spec.vendored_frameworks = 'Banked.framework'
-  spec.swift_version = "5.2"
+  spec.swift_version = "5.3"
   spec.ios.deployment_target  = '13.0'
 
 end
