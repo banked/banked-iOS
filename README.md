@@ -2,6 +2,8 @@
 \
 The Banked SDK offers an interface for processing a PaymentSession created using the Banked API.
 
+You can find more information about Banked in our [Developer Docs](https://developer.banked.com/docs/introduction), including a guide on how to set up Payment Sessions.
+
 ## Installation
 \
 Use [Cocoapods](https://cocoapods.org/) to install the Banked Checkout SDK
@@ -86,7 +88,6 @@ BankedCheckout.shared.handlePaymentWithURL(url, action: .pay)  { response in
     }
 }
 ```
-
 
 ### Optional - Setup a Delegate for the BankedCheckout
 
