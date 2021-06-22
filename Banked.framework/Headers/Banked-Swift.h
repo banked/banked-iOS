@@ -206,10 +206,14 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@protocol BankedCheckoutDelegate;
 @class NSString;
 
 SWIFT_CLASS("_TtC6Banked14BankedCheckout")
 @interface BankedCheckout : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) BankedCheckout * _Nonnull shared;)
++ (BankedCheckout * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
+@property (nonatomic, weak) id <BankedCheckoutDelegate> _Nullable delegate;
 /// Initialises the shared BankedCheckout
 /// \param clientKey The test or production API key
 ///
@@ -219,6 +223,28 @@ SWIFT_CLASS("_TtC6Banked14BankedCheckout")
 - (void)setUp:(NSString * _Nonnull)clientKey;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
+@class NSNumber;
+
+/// Method for managing loading state for Banked checkout session
+SWIFT_PROTOCOL("_TtP6Banked22BankedCheckoutDelegate_")
+@protocol BankedCheckoutDelegate
+/// Tells the delegate that Banked checkout is loading (retrieving the Payment details via the network)
+/// \param isLoading Bool value indicating is the Banked checkout loading
+///
+///
+/// returns:
+/// nil
+- (void)bankedCheckoutIsLoading:(BOOL)isLoading;
+@end
+
+/// The type of payment action or intent
+typedef SWIFT_ENUM(NSInteger, PaymentAction, closed) {
+  PaymentActionPay = 0,
+  PaymentActionDonate = 1,
+  PaymentActionSend = 2,
+  PaymentActionTransfer = 3,
+};
 
 
 
