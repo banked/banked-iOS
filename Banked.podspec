@@ -9,14 +9,14 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Banked"
-  spec.version      = "0.0.12"
+  spec.version      = "0.0.13"
   spec.summary      = "Banked SDK"
   spec.description  = "Banked iOS checkout"
   spec.homepage     = "https://banked.com"
   spec.license      = { :type => "Commercial", :file => "LICENSE" }
   spec.author             = { "Banked" => "hello@banked.com" }
   spec.platform     = :ios
-  spec.source       = { :git => "https://github.com/banked/banked-iOS.git", :tag => "0.0.4" }
+  spec.source       = { :git => "https://github.com/banked/banked-iOS.git", :tag => "0.0.12" }
   spec.public_header_files = "Banked.framework/Headers/*.h"
   spec.source_files  = "Banked.framework/Headers/*.{h}"
   spec.vendored_frameworks = 'Banked.framework'
