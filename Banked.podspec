@@ -9,19 +9,19 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Banked"
-  spec.version      = "0.0.14"
+  spec.version      = "0.0.15"
   spec.summary      = "Banked SDK"
   spec.description  = "Banked iOS checkout"
   spec.homepage     = "https://banked.com"
   spec.license      = { :type => "Commercial", :file => "LICENSE" }
-  spec.author             = { "Banked" => "hello@banked.com" }
+  spec.author       = { "Banked" => "hello@banked.com" }
   spec.platform     = :ios
-  spec.source       = { :git => "https://github.com/banked/banked-iOS.git", :tag => "0.0.12" }
+  spec.source       = { :git => "https://github.com/banked/banked-iOS.git", :tag => "#{s.version}" }
   spec.public_header_files = "Banked.framework/Headers/*.h"
   spec.source_files  = "Banked.framework/Headers/*.{h}"
   spec.vendored_frameworks = 'Banked.framework'
   spec.swift_version = "5.3"
-  spec.ios.deployment_target  = '12.1'
+  spec.ios.deployment_target  = '11.0'
   spec.dependency 'Sentry'
 
 end
