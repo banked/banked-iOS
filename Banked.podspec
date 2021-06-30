@@ -9,10 +9,10 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Banked"
-  spec.version      = "0.0.15"
+  spec.version      = "0.0.16"
   spec.summary      = "Banked SDK"
   spec.description  = "Banked iOS checkout"
-  spec.homepage     = "https://banked.com"
+  spec.homepage     = "https://github.com/banked/banked-iOS.git"
   spec.license      = { :type => "Commercial", :file => "LICENSE" }
   spec.author       = { "Banked" => "hello@banked.com" }
   spec.platform     = :ios
@@ -23,5 +23,9 @@ Pod::Spec.new do |spec|
   spec.swift_version = "5.3"
   spec.ios.deployment_target  = '11.0'
   spec.dependency 'Sentry'
+  spec.pod_target_xcconfig = {
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 end
