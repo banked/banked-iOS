@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "Commercial", :file => "LICENSE" }
   spec.author       = { "Banked" => "hello@banked.com" }
   spec.platform     = :ios
-  spec.source       = { :git => "https://github.com/banked/banked-iOS.git", :tag => "#{s.version}" }
+  spec.source       = { :git => "https://github.com/banked/banked-iOS.git", :tag => "#{spec.version}" }
   spec.public_header_files = "Banked.framework/Headers/*.h"
   spec.source_files  = "Banked.framework/Headers/*.{h}"
   spec.vendored_frameworks = 'Banked.framework'
