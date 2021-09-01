@@ -1,5 +1,12 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.17
+September 01, 2021
+
+### New Features
+* Close authenticated payments automatically
+* Change Terms and conditions acceptance logic
+
 ## 0.0.16
 June 30, 2021
 
