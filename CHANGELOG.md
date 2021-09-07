@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.18
+September 01, 2021
+
+### Bug Fixes
+* Fix a bug with iOS 11.0 compatibility. 
+
 ## 0.0.17
 September 01, 2021
 
