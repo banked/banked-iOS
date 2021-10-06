@@ -1,5 +1,14 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.19
+October 06, 2021
+
+### New Features
+* Add new error for abort payments
+
+### Bug Fixes
+* Fix a crash when unavailable bank is selected
+
 ## 0.0.18
 September 01, 2021
 
