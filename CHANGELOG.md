@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.20
+November 09, 2021
+
+### Bug Fixes
+* Added support for Module Stability
+
 ## 0.0.19
 October 06, 2021
 
