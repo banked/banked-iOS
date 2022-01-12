@@ -1,5 +1,12 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.21
+January 12, 2022
+
+### New Features
+* Move to XCFramework format. 
+* Support for simulators under M1 computers.
+
 ## 0.0.20
 November 09, 2021
 

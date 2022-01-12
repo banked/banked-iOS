@@ -1,0 +1,68 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Banked
+@_exported import Banked
+import Foundation
+import ImageIO
+import Sentry
+import Swift
+import UIKit
+import _Concurrency
+public enum BankedCheckoutError : Swift.Equatable {
+  case apiKeyIncorrect
+  case apiKeyMissing
+  case canNotDecodeData
+  case internalServerError
+  case missingData
+  case noInternetConnection
+  case paymentHasBeenSent
+  case paymentHasFailed
+  case paymentHasBeenAborted
+  case paymentIdMissing
+  case paymentIsPending
+  case paymentMissingPayer
+  case paymentNotFound
+  case providerError(text: Swift.String)
+  case requestCanceled
+  case userCanceled
+  case unprocesableEntity
+  case genericError
+  public static func == (a: Banked.BankedCheckoutError, b: Banked.BankedCheckoutError) -> Swift.Bool
+}
+public enum BankedCheckoutResponse {
+  case success
+  case failure(Banked.BankedCheckoutError)
+}
+public enum PaymentAction {
+  case pay
+  case donate
+  case send
+  case transfer
+  public static func == (a: Banked.PaymentAction, b: Banked.PaymentAction) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers public class BankedCheckout : ObjectiveC.NSObject {
+  public static let shared: Banked.BankedCheckout
+  weak public var delegate: Banked.BankedCheckoutDelegate? {
+    get
+    set
+  }
+  public func setUp(_ clientKey: Swift.String)
+  public func presentCheckout(_ viewController: UIKit.UIViewController, paymentId: Swift.String, action: Banked.PaymentAction, continueURL: Swift.String, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
+  public func handlePaymentWithURL(_ url: Foundation.URL, action: Banked.PaymentAction, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
+  @objc override dynamic public init()
+  @objc deinit
+}
+public protocol BankedCheckoutDelegate : AnyObject {
+  func bankedCheckoutIsLoading(_ isLoading: Swift.Bool)
+}
+extension UIKit.UIImage {
+  public class func gifImageWithData(_ data: Foundation.Data) -> UIKit.UIImage?
+  public class func gifImageWithURL(_ gifUrl: Swift.String) -> UIKit.UIImage?
+  public class func gifImageWithName(_ name: Swift.String) -> UIKit.UIImage?
+}
+extension Banked.PaymentAction : Swift.Equatable {}
+extension Banked.PaymentAction : Swift.Hashable {}
