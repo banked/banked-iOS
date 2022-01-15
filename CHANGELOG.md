@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.22
+January 15, 2022
+
+### Bug Fixes
+* Fix BITCODE issue.
+
 ## 0.0.21
 January 12, 2022
 
