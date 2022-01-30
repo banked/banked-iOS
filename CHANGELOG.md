@@ -1,5 +1,14 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.23
+January 30, 2022
+
+### Bug Fixes
+* Fix configuration to support Apple Silicon.
+
+### New Features
+* Update Sentry from 7.8.0 to 7.9.0 
+
 ## 0.0.22
 January 15, 2022
 
