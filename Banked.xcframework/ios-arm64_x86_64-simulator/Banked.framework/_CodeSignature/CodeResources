@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		kihZ1mK0A3DnFVh7X+R48gQzh78=
+		qWSBgu/mDwdJpdJbOQDfrzSCIXI=
 		</data>
 		<key>BankedErrorView.nib/objects-13.0+.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SFULgsgg7qtNdEco4veh+kX2/Gc=
+		NILbuM6kF3NKuvUa+6smA8K5mZs=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		SFULgsgg7qtNdEco4veh+kX2/Gc=
+		NILbuM6kF3NKuvUa+6smA8K5mZs=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pBa2blYoRXNX9RhksbjmyjkwTGQ=
+		xR8DfrNW+a9x4xpsrYHP8WC6+mQ=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		pBa2blYoRXNX9RhksbjmyjkwTGQ=
+		xR8DfrNW+a9x4xpsrYHP8WC6+mQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -116,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hikNIHVpdBynhQk/u5B5jfuGvid3d5dDRhqNf3ol4Lg=
+			R3tMsa+I4PkbX2WhRfuWMZj3xCJLOEyHbQuejCiZahU=
 			</data>
 		</dict>
 		<key>BankedErrorView.nib/objects-13.0+.nib</key>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MaBIa9wWDYCjJZ3eVwxVskBLJekBkfT2/xRAk8r/x5E=
+			jP1+tJvUWUUkOwM4m25UyGFQFk/4tH7RXIDZAVvMZRI=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64.swiftdoc</key>
@@ -200,7 +200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MaBIa9wWDYCjJZ3eVwxVskBLJekBkfT2/xRAk8r/x5E=
+			jP1+tJvUWUUkOwM4m25UyGFQFk/4tH7RXIDZAVvMZRI=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -221,7 +221,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RSwew3kRj49x8jr36cQ6Cgk21Dm3S3blFKnMEHfTNTc=
+			Xzhiwf0xblIo6QeljQ6lx0zyYuJ/fwSOHpaQ5YmOM00=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64.swiftdoc</key>
@@ -242,7 +242,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RSwew3kRj49x8jr36cQ6Cgk21Dm3S3blFKnMEHfTNTc=
+			Xzhiwf0xblIo6QeljQ6lx0zyYuJ/fwSOHpaQ5YmOM00=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
