@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.25
+March 4, 2022
+
+### Bug Fixes
+* Fix RewardAvailableView layout.
+
 ## 0.0.24
 March 1, 2022
 
