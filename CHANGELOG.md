@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.26
+April 9, 2022
+
+### Bug Fixes
+* Fix copy pre-handoff about bank details never being stored.
+
 ## 0.0.25
 March 4, 2022
 

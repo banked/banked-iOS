@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		IpM5xqhEcveyp4J4V5klzOphbpY=
+		7r6UwbKZwU9EkQEKZ/3Rh5D07ak=
 		</data>
 		<key>BankedErrorView.nib/objects-13.0+.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/Banked-Swift.h</key>
 		<data>
-		lVzQZHcY36VILF7BRCDCjknwrmE=
+		qXyqjWUmq5G6vjd7mr+RlPR6E8U=
 		</data>
 		<key>Headers/Banked.h</key>
 		<data>
@@ -34,55 +34,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sYkbj42OsL/pHDsHtiZtSahg2qI=
+		oCAYvbb4s/FAMuCahKE9cbsVAKI=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vKVIP/6ZHKjFMbFqqAfj9ZLJ818=
+		pfrKaZuogiH+hdC3C/V2W5Vblx0=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gC8lrBV2n6JPZ/PhN6lzQ88089M=
+		VK+BWkyLKkvf83paqx2rfJNbhC4=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NILbuM6kF3NKuvUa+6smA8K5mZs=
-		</data>
-		<key>Modules/Banked.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		vKVIP/6ZHKjFMbFqqAfj9ZLJ818=
-		</data>
-		<key>Modules/Banked.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		gC8lrBV2n6JPZ/PhN6lzQ88089M=
-		</data>
-		<key>Modules/Banked.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		NILbuM6kF3NKuvUa+6smA8K5mZs=
+		jSFhxPjUGF/UoMBiRHaCfR0hPEM=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		qrYEHVD6hYZjz2S029yPtvaxttw=
+		PhzeI2XTjZZ0CzQLjN28+DclLdY=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9tyCGIuPR6GapNaNU3jH+BG1xSk=
+		lQ7xeRwV68RPJwtLGxsRi+bfQGg=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xR8DfrNW+a9x4xpsrYHP8WC6+mQ=
-		</data>
-		<key>Modules/Banked.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		qrYEHVD6hYZjz2S029yPtvaxttw=
-		</data>
-		<key>Modules/Banked.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		9tyCGIuPR6GapNaNU3jH+BG1xSk=
-		</data>
-		<key>Modules/Banked.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		xR8DfrNW+a9x4xpsrYHP8WC6+mQ=
+		3wXTHIpeRc/Zz7px7yRTV180Tlw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,7 +76,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5IqlqFX//M4BLxmmPsW4SqN3QYI=
+			hFt7DkvOPD/JCJgsqnh0RVczCkE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -116,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pjZ3gB9OhXarHkZF51JJRSCG+mtYElGfQsKi/T7v6XY=
+			CocwuqAsOQIj4gOfyNci5PManhX4cbajwFDGFG8aL/A=
 			</data>
 		</dict>
 		<key>BankedErrorView.nib/objects-13.0+.nib</key>
@@ -137,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nXZNUH4HUyT0iFAW1RS0AEt+NXBWiFKvuweU5PHBExw=
+			9cMrJsThL1Hl8hLle6LAtz6WCbjvRTylmNY4QwoCGWc=
 			</data>
 		</dict>
 		<key>Headers/Banked.h</key>
@@ -165,84 +141,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WNv7LDKlVHpY1HmdCVKKyLG1l6nTSQXCiQ6MeFot6A0=
+			b7NpZ+f4jMtGiCLTphp3ISuu6PK3o2+6bYZKsw6/SJI=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x/JzHQFqD2iDWn05TM4xoxUuzurh1MyY3Igsks4vcPw=
+			FwyJALVGVFzFMXdHrfOF1UAQw92o9WLX8WETKXmxqCk=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jP1+tJvUWUUkOwM4m25UyGFQFk/4tH7RXIDZAVvMZRI=
-			</data>
-		</dict>
-		<key>Modules/Banked.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WNv7LDKlVHpY1HmdCVKKyLG1l6nTSQXCiQ6MeFot6A0=
-			</data>
-		</dict>
-		<key>Modules/Banked.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x/JzHQFqD2iDWn05TM4xoxUuzurh1MyY3Igsks4vcPw=
-			</data>
-		</dict>
-		<key>Modules/Banked.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jP1+tJvUWUUkOwM4m25UyGFQFk/4tH7RXIDZAVvMZRI=
+			HJ6MYWXZ240+uPrYdAzU/xRwlQEbAA5HIi+9kbmwDUQ=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mi51vZySGBMcWFo7abeokPwk8CJ6yZTQw5yLMgiwgNc=
+			GcEBsUxDrhphIEL/gGJGBFM2djWoRnKVzFEonHcyi4k=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			onc9rIvoa0bXF3Jy8XYpL4egHiXcAlMpJYhVlpw5i/k=
+			yh3gwGMl+KH797lYYvxfk6HvjwQ/+x31IOsLJo0ge2s=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xzhiwf0xblIo6QeljQ6lx0zyYuJ/fwSOHpaQ5YmOM00=
-			</data>
-		</dict>
-		<key>Modules/Banked.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mi51vZySGBMcWFo7abeokPwk8CJ6yZTQw5yLMgiwgNc=
-			</data>
-		</dict>
-		<key>Modules/Banked.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			onc9rIvoa0bXF3Jy8XYpL4egHiXcAlMpJYhVlpw5i/k=
-			</data>
-		</dict>
-		<key>Modules/Banked.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Xzhiwf0xblIo6QeljQ6lx0zyYuJ/fwSOHpaQ5YmOM00=
+			ZjEpDdBim/+EeZYzGMx/JYmHDdt6DoF0l6seOIHPpUo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -270,7 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lizBzlt1z2uzeyANhXwdkmCJzjOggnMd2tm5u9ey2yU=
+			y6RM5mJ1s/DuASoVJmadsD/8HH9ev/9E7Tk7rV9SY1o=
 			</data>
 			<key>optional</key>
 			<true/>
