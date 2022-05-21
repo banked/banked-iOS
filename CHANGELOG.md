@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.27
+May 21, 2022
+
+### Bug Fixes
+* Fix result callback called twice in some scenarios.
+
 ## 0.0.26
 April 9, 2022
 

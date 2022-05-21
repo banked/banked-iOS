@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		7r6UwbKZwU9EkQEKZ/3Rh5D07ak=
+		zbguBSN38WwSywroxhJx15NvAZk=
 		</data>
 		<key>BankedErrorView.nib/objects-13.0+.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oCAYvbb4s/FAMuCahKE9cbsVAKI=
+		zu6n7/Ohx4hkYJB2yQqIiT4bsCE=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jSFhxPjUGF/UoMBiRHaCfR0hPEM=
+		ppEbjsnxralizLg3MWZoiu2fyho=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3wXTHIpeRc/Zz7px7yRTV180Tlw=
+		3YVni202ObhBlTNimrVgwFTTvGk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CocwuqAsOQIj4gOfyNci5PManhX4cbajwFDGFG8aL/A=
+			eOcVjfloOAx8916btbYE7D9ok2ofemNTG8/BO8BYKzo=
 			</data>
 		</dict>
 		<key>BankedErrorView.nib/objects-13.0+.nib</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HJ6MYWXZ240+uPrYdAzU/xRwlQEbAA5HIi+9kbmwDUQ=
+			mdA1MPGSSSC5yb4wHMVJjyD2F+UTvwuHebkiMbuBmtE=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -176,7 +176,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZjEpDdBim/+EeZYzGMx/JYmHDdt6DoF0l6seOIHPpUo=
+			tJMt6lsqc9cxrgY7HQ+2HtxB8Jz03/N9x30p8GV1zNM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
