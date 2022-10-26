@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
-// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Banked
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Banked
 @_exported import Banked
 import Foundation
 import ImageIO
@@ -29,9 +29,10 @@ public enum BankedCheckoutError : Swift.Equatable {
   case genericError
   public static func == (a: Banked.BankedCheckoutError, b: Banked.BankedCheckoutError) -> Swift.Bool
 }
-public enum BankedCheckoutResponse {
+public enum BankedCheckoutResponse : Swift.Equatable {
   case success
   case failure(Banked.BankedCheckoutError)
+  public static func == (a: Banked.BankedCheckoutResponse, b: Banked.BankedCheckoutResponse) -> Swift.Bool
 }
 public enum PaymentAction {
   case pay
@@ -44,7 +45,7 @@ public enum PaymentAction {
     get
   }
 }
-@objc @_inheritsConvenienceInitializers public class BankedCheckout : ObjectiveC.NSObject {
+@objc @_hasMissingDesignatedInitializers public class BankedCheckout : ObjectiveC.NSObject {
   public static let shared: Banked.BankedCheckout
   weak public var delegate: Banked.BankedCheckoutDelegate? {
     get
@@ -53,7 +54,6 @@ public enum PaymentAction {
   public func setUp(_ clientKey: Swift.String)
   public func presentCheckout(_ viewController: UIKit.UIViewController, paymentId: Swift.String, action: Banked.PaymentAction, continueURL: Swift.String, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
   public func handlePaymentWithURL(_ url: Foundation.URL, action: Banked.PaymentAction, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
-  @objc override dynamic public init()
   @objc deinit
 }
 public protocol BankedCheckoutDelegate : AnyObject {

@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.28
+October 26, 2022
+
+### Bug Fixes
+* Fix platform version when reporting.
+
 ## 0.0.27
 May 21, 2022
 
