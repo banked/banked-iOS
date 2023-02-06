@@ -1,0 +1,4648 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BankedCheckoutError",
+        "printedName": "BankedCheckoutError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "apiKeyIncorrect",
+            "printedName": "apiKeyIncorrect",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO15apiKeyIncorrectyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO15apiKeyIncorrectyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "apiKeyMissing",
+            "printedName": "apiKeyMissing",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO13apiKeyMissingyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO13apiKeyMissingyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "canNotDecodeData",
+            "printedName": "canNotDecodeData",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO16canNotDecodeDatayA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO16canNotDecodeDatayA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "internalServerError",
+            "printedName": "internalServerError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO014internalServerC0yA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO014internalServerC0yA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "missingData",
+            "printedName": "missingData",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO11missingDatayA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO11missingDatayA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "noInternetConnection",
+            "printedName": "noInternetConnection",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO20noInternetConnectionyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO20noInternetConnectionyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentHasBeenSent",
+            "printedName": "paymentHasBeenSent",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO18paymentHasBeenSentyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO18paymentHasBeenSentyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentHasFailed",
+            "printedName": "paymentHasFailed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO16paymentHasFailedyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO16paymentHasFailedyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentHasBeenAborted",
+            "printedName": "paymentHasBeenAborted",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO21paymentHasBeenAbortedyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO21paymentHasBeenAbortedyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentIdMissing",
+            "printedName": "paymentIdMissing",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO16paymentIdMissingyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO16paymentIdMissingyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentIsPending",
+            "printedName": "paymentIsPending",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO16paymentIsPendingyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO16paymentIsPendingyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentMissingPayer",
+            "printedName": "paymentMissingPayer",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO19paymentMissingPayeryA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO19paymentMissingPayeryA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentNotFound",
+            "printedName": "paymentNotFound",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO15paymentNotFoundyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO15paymentNotFoundyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "providerError",
+            "printedName": "providerError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> (Swift.String) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> Banked.BankedCheckoutError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(text: Swift.String)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO08providerC0yACSS_tcACmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO08providerC0yACSS_tcACmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "requestCanceled",
+            "printedName": "requestCanceled",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO15requestCanceledyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO15requestCanceledyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "userCanceled",
+            "printedName": "userCanceled",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO12userCanceledyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO12userCanceledyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "unprocesableEntity",
+            "printedName": "unprocesableEntity",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO18unprocesableEntityyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO18unprocesableEntityyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "genericError",
+            "printedName": "genericError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO07genericC0yA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO07genericC0yA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BankedCheckoutError",
+                "printedName": "Banked.BankedCheckoutError",
+                "usr": "s:6Banked0A13CheckoutErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BankedCheckoutError",
+                "printedName": "Banked.BankedCheckoutError",
+                "usr": "s:6Banked0A13CheckoutErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked0A13CheckoutErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s6Banked0A13CheckoutErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "Banked",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:6Banked0A13CheckoutErrorO",
+        "mangledName": "$s6Banked0A13CheckoutErrorO",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BankedCheckoutResponse",
+        "printedName": "BankedCheckoutResponse",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "success",
+            "printedName": "success",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutResponse.Type) -> Banked.BankedCheckoutResponse",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutResponse",
+                    "printedName": "Banked.BankedCheckoutResponse",
+                    "usr": "s:6Banked0A16CheckoutResponseO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutResponse.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutResponse",
+                        "printedName": "Banked.BankedCheckoutResponse",
+                        "usr": "s:6Banked0A16CheckoutResponseO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A16CheckoutResponseO7successyA2CmF",
+            "mangledName": "$s6Banked0A16CheckoutResponseO7successyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "failure",
+            "printedName": "failure",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutResponse.Type) -> (Banked.BankedCheckoutError) -> Banked.BankedCheckoutResponse",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Banked.BankedCheckoutError) -> Banked.BankedCheckoutResponse",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutResponse",
+                        "printedName": "Banked.BankedCheckoutResponse",
+                        "usr": "s:6Banked0A16CheckoutResponseO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutResponse.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutResponse",
+                        "printedName": "Banked.BankedCheckoutResponse",
+                        "usr": "s:6Banked0A16CheckoutResponseO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A16CheckoutResponseO7failureyAcA0aB5ErrorOcACmF",
+            "mangledName": "$s6Banked0A16CheckoutResponseO7failureyAcA0aB5ErrorOcACmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BankedCheckoutResponse",
+                "printedName": "Banked.BankedCheckoutResponse",
+                "usr": "s:6Banked0A16CheckoutResponseO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BankedCheckoutResponse",
+                "printedName": "Banked.BankedCheckoutResponse",
+                "usr": "s:6Banked0A16CheckoutResponseO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked0A16CheckoutResponseO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s6Banked0A16CheckoutResponseO2eeoiySbAC_ACtFZ",
+            "moduleName": "Banked",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:6Banked0A16CheckoutResponseO",
+        "mangledName": "$s6Banked0A16CheckoutResponseO",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PaymentAction",
+        "printedName": "PaymentAction",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "pay",
+            "printedName": "pay",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.PaymentAction.Type) -> Banked.PaymentAction",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentAction",
+                    "printedName": "Banked.PaymentAction",
+                    "usr": "s:6Banked13PaymentActionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.PaymentAction.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentAction",
+                        "printedName": "Banked.PaymentAction",
+                        "usr": "s:6Banked13PaymentActionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked13PaymentActionO3payyA2CmF",
+            "mangledName": "$s6Banked13PaymentActionO3payyA2CmF",
+            "moduleName": "Banked"
+          },
+          {
+            "kind": "Var",
+            "name": "donate",
+            "printedName": "donate",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.PaymentAction.Type) -> Banked.PaymentAction",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentAction",
+                    "printedName": "Banked.PaymentAction",
+                    "usr": "s:6Banked13PaymentActionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.PaymentAction.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentAction",
+                        "printedName": "Banked.PaymentAction",
+                        "usr": "s:6Banked13PaymentActionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked13PaymentActionO6donateyA2CmF",
+            "mangledName": "$s6Banked13PaymentActionO6donateyA2CmF",
+            "moduleName": "Banked"
+          },
+          {
+            "kind": "Var",
+            "name": "send",
+            "printedName": "send",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.PaymentAction.Type) -> Banked.PaymentAction",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentAction",
+                    "printedName": "Banked.PaymentAction",
+                    "usr": "s:6Banked13PaymentActionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.PaymentAction.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentAction",
+                        "printedName": "Banked.PaymentAction",
+                        "usr": "s:6Banked13PaymentActionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked13PaymentActionO4sendyA2CmF",
+            "mangledName": "$s6Banked13PaymentActionO4sendyA2CmF",
+            "moduleName": "Banked"
+          },
+          {
+            "kind": "Var",
+            "name": "transfer",
+            "printedName": "transfer",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.PaymentAction.Type) -> Banked.PaymentAction",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentAction",
+                    "printedName": "Banked.PaymentAction",
+                    "usr": "s:6Banked13PaymentActionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.PaymentAction.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentAction",
+                        "printedName": "Banked.PaymentAction",
+                        "usr": "s:6Banked13PaymentActionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked13PaymentActionO8transferyA2CmF",
+            "mangledName": "$s6Banked13PaymentActionO8transferyA2CmF",
+            "moduleName": "Banked"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentAction",
+                "printedName": "Banked.PaymentAction",
+                "usr": "s:6Banked13PaymentActionO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentAction",
+                "printedName": "Banked.PaymentAction",
+                "usr": "s:6Banked13PaymentActionO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked13PaymentActionO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s6Banked13PaymentActionO2eeoiySbAC_ACtFZ",
+            "moduleName": "Banked",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Banked13PaymentActionO9hashValueSivp",
+            "mangledName": "$s6Banked13PaymentActionO9hashValueSivp",
+            "moduleName": "Banked",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Banked13PaymentActionO9hashValueSivg",
+                "mangledName": "$s6Banked13PaymentActionO9hashValueSivg",
+                "moduleName": "Banked",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked13PaymentActionO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s6Banked13PaymentActionO4hash4intoys6HasherVz_tF",
+            "moduleName": "Banked",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:6Banked13PaymentActionO",
+        "mangledName": "$s6Banked13PaymentActionO",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BankedCheckout",
+        "printedName": "BankedCheckout",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BankedCheckout",
+                "printedName": "Banked.BankedCheckout",
+                "usr": "c:@M@Banked@objc(cs)BankedCheckout"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Banked0A8CheckoutC6sharedACvpZ",
+            "mangledName": "$s6Banked0A8CheckoutC6sharedACvpZ",
+            "moduleName": "Banked",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckout",
+                    "printedName": "Banked.BankedCheckout",
+                    "usr": "c:@M@Banked@objc(cs)BankedCheckout"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Banked0A8CheckoutC6sharedACvgZ",
+                "mangledName": "$s6Banked0A8CheckoutC6sharedACvgZ",
+                "moduleName": "Banked",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "Banked.BankedCheckoutDelegate?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvp",
+            "mangledName": "$s6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvp",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Banked.BankedCheckoutDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutDelegate",
+                        "printedName": "Banked.BankedCheckoutDelegate",
+                        "usr": "s:6Banked0A16CheckoutDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvg",
+                "mangledName": "$s6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvg",
+                "moduleName": "Banked",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Banked.BankedCheckoutDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutDelegate",
+                        "printedName": "Banked.BankedCheckoutDelegate",
+                        "usr": "s:6Banked0A16CheckoutDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvs",
+                "mangledName": "$s6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvs",
+                "moduleName": "Banked",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvM",
+                "mangledName": "$s6Banked0A8CheckoutC8delegateAA0aB8Delegate_pSgvM",
+                "moduleName": "Banked",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setUp",
+            "printedName": "setUp(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked0A8CheckoutC5setUpyySSF",
+            "mangledName": "$s6Banked0A8CheckoutC5setUpyySSF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "presentCheckout",
+            "printedName": "presentCheckout(_:paymentId:action:continueURL:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentAction",
+                "printedName": "Banked.PaymentAction",
+                "usr": "s:6Banked13PaymentActionO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutResponse) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutResponse",
+                    "printedName": "Banked.BankedCheckoutResponse",
+                    "usr": "s:6Banked0A16CheckoutResponseO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked0A8CheckoutC07presentB0_9paymentId6action11continueURL10completionySo16UIViewControllerC_SSAA13PaymentActionOSSyAA0aB8ResponseOctF",
+            "mangledName": "$s6Banked0A8CheckoutC07presentB0_9paymentId6action11continueURL10completionySo16UIViewControllerC_SSAA13PaymentActionOSSyAA0aB8ResponseOctF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "handlePaymentWithURL",
+            "printedName": "handlePaymentWithURL(_:action:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentAction",
+                "printedName": "Banked.PaymentAction",
+                "usr": "s:6Banked13PaymentActionO"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutResponse) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutResponse",
+                    "printedName": "Banked.BankedCheckoutResponse",
+                    "usr": "s:6Banked0A16CheckoutResponseO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked0A8CheckoutC20handlePaymentWithURL_6action10completiony10Foundation0F0V_AA0D6ActionOyAA0aB8ResponseOctF",
+            "mangledName": "$s6Banked0A8CheckoutC20handlePaymentWithURL_6action10completiony10Foundation0F0V_AA0D6ActionOyAA0aB8ResponseOctF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BankedCheckout",
+                "printedName": "Banked.BankedCheckout",
+                "usr": "c:@M@Banked@objc(cs)BankedCheckout"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Banked@objc(cs)BankedCheckout(im)init",
+            "mangledName": "$s6Banked0A8CheckoutCACycfc",
+            "moduleName": "Banked",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Banked@objc(cs)BankedCheckout",
+        "mangledName": "$s6Banked0A8CheckoutC",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BankedCheckoutDelegate",
+        "printedName": "BankedCheckoutDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "bankedCheckoutIsLoading",
+            "printedName": "bankedCheckoutIsLoading(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Banked0A16CheckoutDelegateP06bankedB9IsLoadingyySbF",
+            "mangledName": "$s6Banked0A16CheckoutDelegateP06bankedB9IsLoadingyySbF",
+            "moduleName": "Banked",
+            "genericSig": "<τ_0_0 where τ_0_0 : Banked.BankedCheckoutDelegate>",
+            "sugared_genericSig": "<Self where Self : Banked.BankedCheckoutDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:6Banked0A16CheckoutDelegateP",
+        "mangledName": "$s6Banked0A16CheckoutDelegateP",
+        "moduleName": "Banked",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ImageIO",
+        "printedName": "ImageIO",
+        "declKind": "Import",
+        "moduleName": "Banked"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Banked",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIImage",
+        "printedName": "UIImage",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "gifImageWithData",
+            "printedName": "gifImageWithData(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC6BankedE16gifImageWithDatayABSg10Foundation0F0VFZ",
+            "mangledName": "$sSo7UIImageC6BankedE16gifImageWithDatayABSg10Foundation0F0VFZ",
+            "moduleName": "Banked",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "gifImageWithURL",
+            "printedName": "gifImageWithURL(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC6BankedE15gifImageWithURLyABSgSSFZ",
+            "mangledName": "$sSo7UIImageC6BankedE15gifImageWithURLyABSgSSFZ",
+            "moduleName": "Banked",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "gifImageWithName",
+            "printedName": "gifImageWithName(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7UIImageC6BankedE16gifImageWithNameyABSgSSFZ",
+            "mangledName": "$sSo7UIImageC6BankedE16gifImageWithNameyABSgSSFZ",
+            "moduleName": "Banked",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIImage",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIImage",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByImageLiteral",
+            "printedName": "_ExpressibleByImageLiteral",
+            "usr": "s:s26_ExpressibleByImageLiteralP",
+            "mangledName": "$ss26_ExpressibleByImageLiteralP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIApplication",
+        "printedName": "UIApplication",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIApplication",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIApplication",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 904,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1766,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1970,
+      "length": 35,
+      "value": "\"banked_providers_select_your_bank\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2065,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2225,
+      "length": 23,
+      "value": "\"select-provider-title\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2521,
+      "length": 2,
+      "value": "64"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3445,
+      "length": 3,
+      "value": "640"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3630,
+      "length": 23,
+      "value": "\"ProviderTableViewCell\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3954,
+      "length": 3,
+      "value": "0.9"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3996,
+      "length": 5,
+      "value": "690.0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4037,
+      "length": 61,
+      "value": "\"Banked SDK error: We currently does not support this device\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4119,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4218,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4222,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4399,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4479,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4686,
+      "length": 5,
+      "value": "375.0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4727,
+      "length": 61,
+      "value": "\"Banked SDK error: We currently does not support this device\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4809,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4865,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 5443,
+      "length": 38,
+      "value": "\"banked_providers_edittext_hint_label\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5613,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5780,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5879,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5885,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5895,
+      "length": 2,
+      "value": "36"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5907,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5965,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5972,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5983,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5995,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6041,
+      "length": 8,
+      "value": "\"search\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6330,
+      "length": 14,
+      "value": "\"_clearButton\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6409,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6519,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13830,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26937,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26970,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 200,
+      "length": 31,
+      "value": "\"Banked.BankedActionSheetViewController\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 247,
+      "length": 19,
+      "value": "\"backgroundPrimary\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 396,
+      "length": 21,
+      "value": "\"backgroundSecondary\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 545,
+      "length": 19,
+      "value": "\"backgroundTooltip\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 687,
+      "length": 13,
+      "value": "\"textPrimary\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 824,
+      "length": 15,
+      "value": "\"textSecondary\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 967,
+      "length": 18,
+      "value": "\"buttonBackground\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 1110,
+      "length": 16,
+      "value": "\"buttonDisabled\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 1247,
+      "length": 12,
+      "value": "\"buttonText\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 1388,
+      "length": 20,
+      "value": "\"buttonTextDisabled\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 1538,
+      "length": 20,
+      "value": "\"unavailablePrimary\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 1689,
+      "length": 22,
+      "value": "\"unavailableSecondary\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 1836,
+      "length": 15,
+      "value": "\"borderPrimary\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 1974,
+      "length": 14,
+      "value": "\"borderActive\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 2105,
+      "length": 8,
+      "value": "\"border\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 2240,
+      "length": 17,
+      "value": "\"errorBackground\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 2377,
+      "length": 11,
+      "value": "\"errorText\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6198,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 6467,
+      "length": 20,
+      "value": "\"cancel-control-bar\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 6581,
+      "length": 20,
+      "value": "\"cancel-control-bar\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 6702,
+      "length": 21,
+      "value": "\"header-close-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6968,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7488,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7799,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 8017,
+      "length": 9,
+      "value": "\"tag-new\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8252,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 8356,
+      "length": 22,
+      "value": "\"banked_welcome_title\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 8420,
+      "length": 21,
+      "value": "\"pay-by-bank-tranfer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8704,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9069,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9447,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9857,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 9961,
+      "length": 37,
+      "value": "\"banked_welcome_secure_private_title\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10390,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10764,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10799,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10853,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10909,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11336,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11369,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 11415,
+      "length": 10,
+      "value": "\"continue\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11479,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11488,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11499,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11509,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 11571,
+      "length": 40,
+      "value": "\"banked_agree_and_continue_button_title\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11846,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 11988,
+      "length": 28,
+      "value": "\"banked_common_legal_footer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingMainView.swift",
+      "kind": "StringLiteral",
+      "offset": 488,
+      "length": 18,
+      "value": "\"Banked.OnboardingMainView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "Dictionary",
+      "offset": 778,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3689,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "StringLiteral",
+      "offset": 3777,
+      "length": 31,
+      "value": "\"supplementary-attributes-view\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "Array",
+      "offset": 3952,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3984,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4272,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4830,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4863,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "StringLiteral",
+      "offset": 4909,
+      "length": 13,
+      "value": "\"next-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SupplementaryAttributesView.swift",
+      "kind": "StringLiteral",
+      "offset": 489,
+      "length": 27,
+      "value": "\"Banked.SupplementaryAttributesView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIView+BankedBorderLayer.swift",
+      "kind": "FloatLiteral",
+      "offset": 296,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingContentFirstViewPointView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1412,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingContentFirstViewPointView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1780,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingContentFirstViewPointView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2108,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingContentFirstViewPointView.swift",
+      "kind": "StringLiteral",
+      "offset": 2177,
+      "length": 5,
+      "value": "\"•\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingContentFirstViewPointView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2420,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingContentFirstViewPointView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2687,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/OnboardingContentFirstViewPointView.swift",
+      "kind": "StringLiteral",
+      "offset": 197,
+      "length": 35,
+      "value": "\"Banked.OnboardingContentFirstViewPointView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3979,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4355,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4692,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 4780,
+      "length": 21,
+      "value": "\"payer-details-title\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5043,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5640,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5673,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 5719,
+      "length": 20,
+      "value": "\"payer-details-next\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5959,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 6101,
+      "length": 28,
+      "value": "\"banked_common_legal_footer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 6534,
+      "length": 37,
+      "value": "\"banked_update_payer_name_input_hint\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6698,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6865,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 7019,
+      "length": 14,
+      "value": "\"_clearButton\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7118,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 7172,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 7282,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 7403,
+      "length": 20,
+      "value": "\"payer-details-name\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 7885,
+      "length": 38,
+      "value": "\"banked_update_payer_email_input_hint\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8050,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8217,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 8372,
+      "length": 14,
+      "value": "\"_clearButton\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8471,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 8525,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 8635,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 8756,
+      "length": 21,
+      "value": "\"payer-details-email\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 8947,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 9048,
+      "length": 7,
+      "value": "\"clear\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/PopulatePayerView.swift",
+      "kind": "StringLiteral",
+      "offset": 401,
+      "length": 17,
+      "value": "\"Banked.PopulatePayerView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/Payer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 283,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIView+Constraints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1693,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIView+Constraints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2230,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIView+Constraints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2789,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIView+Constraints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2967,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIView+Constraints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4353,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIView+Constraints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4905,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2582,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2948,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3301,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3654,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4100,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4133,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4473,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4569,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4602,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 4666,
+      "length": 42,
+      "value": "\"banked_rewards_info_go_back_button_label\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4944,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 5086,
+      "length": 28,
+      "value": "\"banked_common_legal_footer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/LoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 330,
+      "length": 11,
+      "value": "\"Banked.LoadingView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/CheckoutHeaderView.swift",
+      "kind": "StringLiteral",
+      "offset": 1968,
+      "length": 20,
+      "value": "\"cancel-control-bar\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/CheckoutHeaderView.swift",
+      "kind": "StringLiteral",
+      "offset": 2082,
+      "length": 20,
+      "value": "\"cancel-control-bar\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/CheckoutHeaderView.swift",
+      "kind": "StringLiteral",
+      "offset": 2203,
+      "length": 21,
+      "value": "\"header-close-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/CheckoutHeaderView.swift",
+      "kind": "StringLiteral",
+      "offset": 296,
+      "length": 18,
+      "value": "\"Banked.CheckoutHeaderView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 244,
+      "length": 9,
+      "value": "\"created\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 280,
+      "length": 17,
+      "value": "\"provider_chosen\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 320,
+      "length": 12,
+      "value": "\"authorized\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 384,
+      "length": 10,
+      "value": "\"rejected\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 9,
+      "value": "\"aborted\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 244,
+      "length": 9,
+      "value": "\"created\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 280,
+      "length": 17,
+      "value": "\"provider_chosen\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 320,
+      "length": 12,
+      "value": "\"authorized\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 384,
+      "length": 10,
+      "value": "\"rejected\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/CheckoutSession.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 9,
+      "value": "\"aborted\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/TooltipView.swift",
+      "kind": "StringLiteral",
+      "offset": 1708,
+      "length": 15,
+      "value": "\"arrow-tooltip\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/TooltipView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1998,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/TooltipView.swift",
+      "kind": "StringLiteral",
+      "offset": 2124,
+      "length": 14,
+      "value": "\"tooltip-view\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3612,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3997,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4392,
+      "length": 2,
+      "value": "38"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4759,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 5034,
+      "length": 7,
+      "value": "\"avios\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5267,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 5371,
+      "length": 27,
+      "value": "\"banked_rewards_info_title\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 5440,
+      "length": 24,
+      "value": "\"avios-information-view\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 5888,
+      "length": 49,
+      "value": "\"banked_status_awaiting_payment_alt_button_label\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6073,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6169,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6202,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 6248,
+      "length": 19,
+      "value": "\"avios-back-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6486,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 6628,
+      "length": 28,
+      "value": "\"banked_common_legal_footer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 305,
+      "length": 20,
+      "value": "\"Banked.AviosInformationView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedCheckout.swift",
+      "kind": "StringLiteral",
+      "offset": 2266,
+      "length": 14,
+      "value": "\"Banked.BankedCheckout\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UILabel+LineSpacing.swift",
+      "kind": "FloatLiteral",
+      "offset": 243,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UILabel+LineSpacing.swift",
+      "kind": "FloatLiteral",
+      "offset": 278,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 241,
+      "length": 16,
+      "value": "\"awaiting_payer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 286,
+      "length": 19,
+      "value": "\"awaiting_provider\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 340,
+      "length": 26,
+      "value": "\"awaiting_payment_consent\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 386,
+      "length": 9,
+      "value": "\"pending\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 412,
+      "length": 6,
+      "value": "\"sent\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 8,
+      "value": "\"failed\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 241,
+      "length": 16,
+      "value": "\"awaiting_payer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 286,
+      "length": 19,
+      "value": "\"awaiting_provider\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 340,
+      "length": 26,
+      "value": "\"awaiting_payment_consent\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 386,
+      "length": 9,
+      "value": "\"pending\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 412,
+      "length": 6,
+      "value": "\"sent\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/PaymentSession.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 8,
+      "value": "\"failed\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
+      "kind": "StringLiteral",
+      "offset": 208,
+      "length": 6,
+      "value": "\"Banked.Banked\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/ProviderInformationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1688,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/ProviderInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 2230,
+      "length": 6,
+      "value": "\"edit\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/ProviderInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 2332,
+      "length": 22,
+      "value": "\"edit-provider-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2265,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2544,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 2897,
+      "length": 11,
+      "value": "\"unchecked\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 3002,
+      "length": 11,
+      "value": "\"unchecked\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 3112,
+      "length": 9,
+      "value": "\"checked\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 3230,
+      "length": 9,
+      "value": "\"checked\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 3393,
+      "length": 20,
+      "value": "\"avios-check-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 3562,
+      "length": 6,
+      "value": "\"info\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 3662,
+      "length": 6,
+      "value": "\"info\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3779,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3789,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3801,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3812,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/RewardAvailableView.swift",
+      "kind": "StringLiteral",
+      "offset": 3857,
+      "length": 26,
+      "value": "\"avios-information-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1014,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4530,
+      "length": 2,
+      "value": "29"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4540,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4552,
+      "length": 2,
+      "value": "29"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4563,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5018,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5574,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5607,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "StringLiteral",
+      "offset": 5653,
+      "length": 12,
+      "value": "\"pay-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "StringLiteral",
+      "offset": 5845,
+      "length": 28,
+      "value": "\"banked_common_legal_footer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "StringLiteral",
+      "offset": 6027,
+      "length": 27,
+      "value": "\"fca-approved-footer-label\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6303,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectedProviderView.swift",
+      "kind": "StringLiteral",
+      "offset": 611,
+      "length": 20,
+      "value": "\"Banked.SelectedProviderView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/Server.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 6,
+      "value": "\"Banked.Server\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3109,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3480,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3801,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4126,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4460,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4810,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5109,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5526,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5559,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "StringLiteral",
+      "offset": 5605,
+      "length": 14,
+      "value": "\"retry-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5971,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6067,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6100,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "StringLiteral",
+      "offset": 6164,
+      "length": 60,
+      "value": "\"banked_status_payment_failed_pick_alt_payment_button_label\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "StringLiteral",
+      "offset": 6282,
+      "length": 30,
+      "value": "\"change-payment-method-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6532,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "StringLiteral",
+      "offset": 6674,
+      "length": 28,
+      "value": "\"banked_common_legal_footer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
+      "kind": "StringLiteral",
+      "offset": 387,
+      "length": 11,
+      "value": "\"Banked.SuccessView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosContentItem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1424,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosContentItem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1793,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosContentItem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2119,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosContentItem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2381,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/AviosContentItem.swift",
+      "kind": "StringLiteral",
+      "offset": 178,
+      "length": 16,
+      "value": "\"Banked.AviosContentItem\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Image.swift",
+      "kind": "IntegerLiteral",
+      "offset": 235,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/Categories\/UIColor+Image.swift",
+      "kind": "IntegerLiteral",
+      "offset": 246,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/UIApplicationProtocol.swift",
+      "kind": "Dictionary",
+      "offset": 511,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 216,
+      "length": 8,
+      "value": "\"0.0.22\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "Array",
+      "offset": 4442,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "Array",
+      "offset": 4567,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "Array",
+      "offset": 4772,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "Array",
+      "offset": 4979,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5182,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5877,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5991,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5914,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6148,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6220,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8080,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8138,
+      "length": 44,
+      "value": "\"banked_term_and_conditions_full_text_label\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8348,
+      "length": 28,
+      "value": "\"banked_term_and_conditions\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8457,
+      "length": 13,
+      "value": "\"\/open\/terms\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8582,
+      "length": 26,
+      "value": "\"banked_privacy_statement\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8689,
+      "length": 15,
+      "value": "\"\/open\/privacy\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8857,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9087,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/Provider.swift",
+      "kind": "StringLiteral",
+      "offset": 225,
+      "length": 11,
+      "value": "\"AVAILABLE\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/Provider.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 13,
+      "value": "\"UNAVAILABLE\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/Provider.swift",
+      "kind": "StringLiteral",
+      "offset": 225,
+      "length": 11,
+      "value": "\"AVAILABLE\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/API\/BankedAPI\/Provider.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 13,
+      "value": "\"UNAVAILABLE\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3337,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3770,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4190,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 4332,
+      "length": 35,
+      "value": "\"banked_common_error_unknown_title\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4582,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 4724,
+      "length": 38,
+      "value": "\"banked_common_error_unknown_subtitle\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5005,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5454,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5487,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 5551,
+      "length": 34,
+      "value": "\"banked_common_button_retry_label\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5820,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 5962,
+      "length": 28,
+      "value": "\"banked_common_legal_footer\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 6141,
+      "length": 20,
+      "value": "\"cancel-control-bar\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 6255,
+      "length": 20,
+      "value": "\"cancel-control-bar\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/InitialLoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 344,
+      "length": 18,
+      "value": "\"Banked.InitialLoadingView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SummaryView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1467,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SummaryView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1851,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SummaryView.swift",
+      "kind": "StringLiteral",
+      "offset": 2132,
+      "length": 6,
+      "value": "\"edit\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SummaryView.swift",
+      "kind": "StringLiteral",
+      "offset": 2234,
+      "length": 19,
+      "value": "\"edit-payer-button\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SummaryView.swift",
+      "kind": "StringLiteral",
+      "offset": 283,
+      "length": 11,
+      "value": "\"Banked.SummaryView\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectProviderTypeView.swift",
+      "kind": "StringLiteral",
+      "offset": 629,
+      "length": 23,
+      "value": "\"ProviderTableViewCell\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectProviderTypeView.swift",
+      "kind": "StringLiteral",
+      "offset": 3235,
+      "length": 40,
+      "value": "\"banked_providers_select_child_provider\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectProviderTypeView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3335,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectProviderTypeView.swift",
+      "kind": "StringLiteral",
+      "offset": 3495,
+      "length": 27,
+      "value": "\"select-provider-type-view\""
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectProviderTypeView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3897,
+      "length": 2,
+      "value": "64"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SelectProviderTypeView.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 22,
+      "value": "\"Banked.SelectProviderTypeView\""
+    }
+  ]
+}

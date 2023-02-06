@@ -6,6 +6,6 @@ framework module Banked {
 }
 
 module Banked.Swift {
-    header "Banked-Swift.h"
-    requires objc
+  header "Banked-Swift.h"
+  requires objc
 }

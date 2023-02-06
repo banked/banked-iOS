@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		6cK/AwdPKoPD9bX71BmrZbXQVPM=
+		z3QXf0Ri7h69rNMfsWxO8NLFz+k=
 		</data>
 		<key>BankedErrorView.nib</key>
 		<data>
-		8/Ni47qRjBVxUYkFrR+/+QKUEGs=
+		qCbqtVn2otBcrKw9mphm4FTiUfU=
 		</data>
 		<key>Config.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/Banked-Swift.h</key>
 		<data>
-		h7+1vFTAUoJ7/Fxh0fTp+3ackD0=
+		53uC2yR6S5eX4cUQjO2dFg9+XHM=
 		</data>
 		<key>Headers/Banked.h</key>
 		<data>
@@ -34,43 +34,59 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		A6/ZBtG0ZJkODB1d3SZvDT0EcHw=
+		MgQE1TJrrmEIm+1Fqs7NGcsV4E4=
+		</data>
+		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		C0EzRsibDRsPShk6vYcPqO8+EoY=
+		</data>
+		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		aoyZn/XHJvuXO6loqN0jmA0ikDY=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wqww/9gBZBdl0bRQSDvGsc6VAs4=
+		2P/BZBw92hXABIIA0E0UTq4Ky/w=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jbvAATR0cCeMHQ1H8l2WSuikaiE=
+		aoyZn/XHJvuXO6loqN0jmA0ikDY=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		O1aOyacmt1yeR+QHfsGWXexECLQ=
+		laU0b/hO2VvkIYOobofHrp1a/mA=
+		</data>
+		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		C0EzRsibDRsPShk6vYcPqO8+EoY=
+		</data>
+		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		X5LbHapsE1gPtI2rqtDN1igL4pw=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		i/W3Mlx/A5NkNx4om4+s7815DS0=
+		b+Boz2oJaHoHbtkyScQZ+X1yFN0=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Clgrub68ApyQ0/bvSruBFXHyHT4=
+		X5LbHapsE1gPtI2rqtDN1igL4pw=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MXSFpnPchMiNlV8dnEiv8HiEFmw=
+		MRrDEcnhP1UOorsiL0lmPefkbCo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		zLsMm4MQLJgJ2x0rgpFHAulla3s=
+		8i+s/h7XnYO6hQpV4vP1IhNLl0o=
 		</data>
 		<key>ProviderTableHeaderView.nib</key>
 		<data>
-		HJIx0rphyFIsS3TvMpDsH2PEkp4=
+		taiVEbo30ohJK/6g57DBHWTf9WU=
 		</data>
 		<key>ProviderTableViewCell.nib</key>
 		<data>
-		gvmSVVDeNqkYUEmIlBRC13HkzWI=
+		xo9UGxzrJvAsO5Km5vBHypFx+VQ=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -92,14 +108,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Yk1igVJ4lFmy4FOoFZyElUB7R/2X8H1VR60/QI308I=
+			Ub0jZ71MOaItijsWNYqnuP1P3uioJ3J8dvv9ywTZo30=
 			</data>
 		</dict>
 		<key>BankedErrorView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MCCW2byYasAkY9PBEqZzKg9HjeDdgAVhW62oZpm3Ksw=
+			mf/aBct2kTf0MnXukdytTnpXQcZQmJVPzrfbEEDg5L0=
 			</data>
 		</dict>
 		<key>Config.plist</key>
@@ -113,7 +129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jrhmfuBhHJAkBHmTydxj2p3fzXPKpaAzaWLaDtAPLIU=
+			XM2FNTVmAbf1lXtAfhqLpNamJKeQkIU2YBtLocNhfIM=
 			</data>
 		</dict>
 		<key>Headers/Banked.h</key>
@@ -137,67 +153,95 @@
 			CkGB2t5jdb8s7XTpZBP9ZBDRh6UrPwyGu7N3XHrnif4=
 			</data>
 		</dict>
+		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tXXjlIZmxwyJO9yR0rc4RMuBpYVUx1GRPY+JFKmebIc=
+			</data>
+		</dict>
+		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iMHec8AXsyrdB5i4oAO3HIE4bPfoPDrq9vzOpDK4VF0=
+			</data>
+		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vwTOEvKeq9lxdBNO0kSNuE/2CpZwEkC3fOL07mo6I5M=
+			/PlqEuFS4JDyUWNNwsWM6l3y6M/cKNirjTvUBopztmc=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/qQu78KMuhtx4eAW8PuLfiHNPKvlBJQkyOwxGKtd40M=
+			iMHec8AXsyrdB5i4oAO3HIE4bPfoPDrq9vzOpDK4VF0=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vbq9d8xZwSeOU4vjPU8zJxngEQOmS9v1E3YZKCN3/eA=
+			Lg0PDmjRA2i/0hR6E+TFMskTtrHHp5xQFzL/DNt6VTw=
+			</data>
+		</dict>
+		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tXXjlIZmxwyJO9yR0rc4RMuBpYVUx1GRPY+JFKmebIc=
+			</data>
+		</dict>
+		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			25Ei+AqyOKpHJ3fzGDHPWPvM8IRQAY5+0YvSoUslF4w=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CK4A8UwXmpeAKLKxnIksErz8PN9Pq5esFQyekyyuzro=
+			UGIfbXluSzmqj80yM1ESf21Uzd2ly/lPAqEFkwG1kws=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9GJzIRVJiYrAWxNMygE/udHrbeGGvu0jFNaGtm7J3qI=
+			25Ei+AqyOKpHJ3fzGDHPWPvM8IRQAY5+0YvSoUslF4w=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wZNCA1wCSQRKXxdEQyt7OSOhLFM5DWtSHqxew/3huSI=
+			fLH9NbHlx1qttKqCdULtkODA5nUjc8n5KsWRdFQqPmQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xsJUjG52bzPmEV+8pjMHJ+l023F+KLMMAIt9U95K4Ss=
+			ub3mIf9a1cEDriBpSM7z7KUG3VH5DXPPA7mHVvUl80E=
 			</data>
 		</dict>
 		<key>ProviderTableHeaderView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lByCkvLH6lPEjd32M55OpLXF++WgLSbTc01WB4cOLU8=
+			ociNHOR2CHIvh70uu82b9KC0ISu9Z0zk7+8Q2pNsiJc=
 			</data>
 		</dict>
 		<key>ProviderTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kPwrr8itoMkxTJPVz3GZsqZGfC6Cw4VZBGo41C5vOgI=
+			tsqlNyQa5j1LCxlgR5576fFaLD1YpkVryK8gSgaONq8=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>

@@ -1,5 +1,12 @@
 # Banked Checkout SDK Changelog
 
+
+## 0.0.29
+February 6, 2023
+
+### New Features
+* This version removes Sentry dependency, needed for some clients. Use version 0.0.28 if this is not required in your case.
+
 ## 0.0.28
 October 26, 2022
 

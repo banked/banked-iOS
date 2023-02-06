@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Banked"
-  spec.version      = "0.0.28"
+  spec.version      = "0.0.29"
   spec.summary      = "Banked SDK"
   spec.description  = "Banked iOS checkout"
   spec.homepage     = "https://github.com/banked/banked-iOS.git"
@@ -20,6 +20,5 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'Banked.xcframework'
   spec.swift_version = "5.5"
   spec.ios.deployment_target  = '11.0'
-  spec.dependency 'Sentry', '7.9.0'
 
 end
