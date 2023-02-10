@@ -47,12 +47,17 @@ public enum PaymentAction {
   }
 }
 @objc @_hasMissingDesignatedInitializers public class BankedCheckout : ObjectiveC.NSObject {
+  public static let defaultProductionBaseURL: Foundation.URL
   public static let shared: Banked.BankedCheckout
   weak public var delegate: Banked.BankedCheckoutDelegate? {
     get
     set
   }
+  public var baseURL: Foundation.URL? {
+    get
+  }
   public func setUp(_ clientKey: Swift.String)
+  public func setUp(clientKey: Swift.String, baseURL: Foundation.URL)
   public func presentCheckout(_ viewController: UIKit.UIViewController, paymentId: Swift.String, action: Banked.PaymentAction, continueURL: Swift.String, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
   public func handlePaymentWithURL(_ url: Foundation.URL, action: Banked.PaymentAction, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
   @objc deinit
@@ -64,6 +69,45 @@ extension UIKit.UIImage {
   public class func gifImageWithData(_ data: Foundation.Data) -> UIKit.UIImage?
   public class func gifImageWithURL(_ gifUrl: Swift.String) -> UIKit.UIImage?
   public class func gifImageWithName(_ name: Swift.String) -> UIKit.UIImage?
+}
+extension UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public var keyboardLayoutGuide: UIKit.UILayoutGuide {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public var keyboardLayoutGuideNoSafeArea: UIKit.UILayoutGuide {
+    get
+  }
+}
+@objc @_Concurrency.MainActor(unsafe) open class KeyboardLayoutGuide : UIKit.UILayoutGuide {
+  @_Concurrency.MainActor(unsafe) public var usesSafeArea: Swift.Bool {
+    get
+    set
+  }
+  @available(*, unavailable)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) public init(notificationCenter: Foundation.NotificationCenter = NotificationCenter.default)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class SwiftMaskTextfield : UIKit.UITextField {
+  @_Concurrency.MainActor(unsafe) final public let lettersAndDigitsReplacementChar: Swift.String
+  @_Concurrency.MainActor(unsafe) final public let anyLetterReplecementChar: Swift.String
+  @_Concurrency.MainActor(unsafe) final public let lowerCaseLetterReplecementChar: Swift.String
+  @_Concurrency.MainActor(unsafe) final public let upperCaseLetterReplecementChar: Swift.String
+  @_Concurrency.MainActor(unsafe) final public let digitsReplecementChar: Swift.String
+  @_Concurrency.MainActor(unsafe) final public let upperCaseLetterOrDigitReplecementChar: Swift.String
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var formatPattern: Swift.String
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var prefix: Swift.String
+  @_Concurrency.MainActor(unsafe) open var maxLength: Swift.Int {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var text: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) open func formatText()
 }
 extension Banked.PaymentAction : Swift.Equatable {}
 extension Banked.PaymentAction : Swift.Hashable {}

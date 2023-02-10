@@ -1,6 +1,16 @@
 # Banked Checkout SDK Changelog
 
 
+## 0.0.30
+February 10, 2023
+
+### New Features
+* Added support to Germany/IBAN.
+
+### Bug Fixes
+* Added a retry screen when payment confirmation fails.
+
+
 ## 0.0.29
 February 6, 2023
 

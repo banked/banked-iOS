@@ -230,7 +230,9 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -257,6 +259,43 @@ SWIFT_CLASS("_TtC6Banked14BankedCheckout")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
+
+@class NSCoder;
+
+SWIFT_CLASS("_TtC6Banked19KeyboardLayoutGuide")
+@interface KeyboardLayoutGuide : UILayoutGuide
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER SWIFT_UNAVAILABLE;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+@class NSString;
+
+SWIFT_CLASS("_TtC6Banked18SwiftMaskTextfield")
+@interface SwiftMaskTextfield : UITextField
+/// Var that holds the format pattern that you wish to apply
+/// to some text
+/// If the pattern is set to “” no mask would be applied and
+/// the textfield would behave like a normal one
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull formatPattern;
+/// Var that holds the prefix to be added to the textfield
+/// If the prefix is set to “” no string will be added to the beggining
+/// of the text
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull prefix;
+/// Overriding the var text from UITextField so if any text
+/// is applied programmatically by calling formatText
+@property (nonatomic, copy) NSString * _Nullable text;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
+
+
+
 
 
 
@@ -509,7 +548,9 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -536,6 +577,43 @@ SWIFT_CLASS("_TtC6Banked14BankedCheckout")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
+
+@class NSCoder;
+
+SWIFT_CLASS("_TtC6Banked19KeyboardLayoutGuide")
+@interface KeyboardLayoutGuide : UILayoutGuide
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER SWIFT_UNAVAILABLE;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+@class NSString;
+
+SWIFT_CLASS("_TtC6Banked18SwiftMaskTextfield")
+@interface SwiftMaskTextfield : UITextField
+/// Var that holds the format pattern that you wish to apply
+/// to some text
+/// If the pattern is set to “” no mask would be applied and
+/// the textfield would behave like a normal one
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull formatPattern;
+/// Var that holds the prefix to be added to the textfield
+/// If the prefix is set to “” no string will be added to the beggining
+/// of the text
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull prefix;
+/// Overriding the var text from UITextField so if any text
+/// is applied programmatically by calling formatText
+@property (nonatomic, copy) NSString * _Nullable text;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
+
+
+
 
 
 
