@@ -5525,7 +5525,7 @@
       "kind": "StringLiteral",
       "offset": 216,
       "length": 8,
-      "value": "\"0.0.22\""
+      "value": "\"0.0.31\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/CheckoutHeaderView.swift",

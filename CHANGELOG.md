@@ -1,5 +1,10 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.31
+February 16, 2023
+
+### Bug Fixes
+* Fixed framework version in request headers.
 
 ## 0.0.30
 February 10, 2023
@@ -9,7 +14,6 @@ February 10, 2023
 
 ### Bug Fixes
 * Added a retry screen when payment confirmation fails.
-
 
 ## 0.0.29
 February 6, 2023

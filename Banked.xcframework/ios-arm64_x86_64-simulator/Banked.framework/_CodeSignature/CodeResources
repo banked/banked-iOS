@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MgQE1TJrrmEIm+1Fqs7NGcsV4E4=
+		kB47Ji+Ci7oVK2dRpMb/bhLeu/M=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JEAH1xv+l2K+vEudod3Rxg4EP6c=
+		uPqXZt7+2c6oIrNUASeSic7kJNE=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jp9CF5U0we3MT4/FeaVgMKljHLw=
+		yhDaUIPZ5z7LJhhduxj562MQl2E=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JEAH1xv+l2K+vEudod3Rxg4EP6c=
+		uPqXZt7+2c6oIrNUASeSic7kJNE=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gSH/mKszRQek7dGT5hg+TUaIhwQ=
+		+HOLqZXZIM9mpK0pOoN9gOiH7Ps=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TE3lHX80hZ06snuyMj8cHn988+29Ht0jquFnvj69BuU=
+			Z7r959z70dkiMV7Z9YADVGws06+fqpdt2T5zwGckQU8=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -172,14 +172,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			80Tf7e4M0uJ3pc6E+PgFUTGVtWHlygUnj/mDvr02CKw=
+			8Re6Df3tANTGwtkxdsm+vYYV5CTHuA+ycVzXaYSZvzI=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TE3lHX80hZ06snuyMj8cHn988+29Ht0jquFnvj69BuU=
+			Z7r959z70dkiMV7Z9YADVGws06+fqpdt2T5zwGckQU8=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -207,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqTn1LgaMzgsu48WohXl99AnEYA1AGetDJ8uBo6F40U=
+			jloazIDEuoaVOZqagBi/KkpOYNTHKoE49sH36fn5FHY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
