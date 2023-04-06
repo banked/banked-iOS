@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
-// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Banked
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Banked
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import Banked
 import Foundation
@@ -35,6 +35,7 @@ public enum BankedCheckoutResponse : Swift.Equatable {
   case failure(Banked.BankedCheckoutError)
   public static func == (a: Banked.BankedCheckoutResponse, b: Banked.BankedCheckoutResponse) -> Swift.Bool
 }
+@available(*, deprecated, message: "This type is deprecated, 'pay' is used all the time now.")
 public enum PaymentAction {
   case pay
   case donate
@@ -49,7 +50,7 @@ public enum PaymentAction {
 @objc @_hasMissingDesignatedInitializers public class BankedCheckout : ObjectiveC.NSObject {
   public static let defaultProductionBaseURL: Foundation.URL
   public static let shared: Banked.BankedCheckout
-  weak public var delegate: Banked.BankedCheckoutDelegate? {
+  weak public var delegate: (any Banked.BankedCheckoutDelegate)? {
     get
     set
   }
@@ -58,7 +59,11 @@ public enum PaymentAction {
   }
   public func setUp(_ clientKey: Swift.String)
   public func setUp(clientKey: Swift.String, baseURL: Foundation.URL)
+  public func presentCheckout(_ viewController: UIKit.UIViewController, paymentId: Swift.String, continueURL: Swift.String, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
+  @available(*, deprecated, renamed: "presentCheckout(viewController:paymentId:continueURL:completion:)")
   public func presentCheckout(_ viewController: UIKit.UIViewController, paymentId: Swift.String, action: Banked.PaymentAction, continueURL: Swift.String, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
+  public func handlePaymentWithURL(_ url: Foundation.URL, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
+  @available(*, deprecated, renamed: "handlePaymentWithURL(url:completion:)")
   public func handlePaymentWithURL(_ url: Foundation.URL, action: Banked.PaymentAction, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
   @objc deinit
 }
@@ -109,5 +114,7 @@ extension UIKit.UIView {
   @objc deinit
   @_Concurrency.MainActor(unsafe) open func formatText()
 }
+@available(*, deprecated, message: "This type is deprecated, 'pay' is used all the time now.")
 extension Banked.PaymentAction : Swift.Equatable {}
+@available(*, deprecated, message: "This type is deprecated, 'pay' is used all the time now.")
 extension Banked.PaymentAction : Swift.Hashable {}

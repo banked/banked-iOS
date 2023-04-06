@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		WKJhCw4wHn4qurQ9pJsy/SkrdiA=
+		thFTVHi17uW7G6Oinkb8E4H5l2I=
 		</data>
 		<key>Headers/Banked-Swift.h</key>
 		<data>
-		HR2gF8rVBudTkIZIPugBQMhoYe0=
+		QDZXd7dE47goNLaqoOAkY2AGMeg=
 		</data>
 		<key>Headers/Banked.h</key>
 		<data>
@@ -26,47 +26,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kB47Ji+Ci7oVK2dRpMb/bhLeu/M=
+		0TNFQmhuH4bgjWXxFy/X69Fmc3w=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		uPqXZt7+2c6oIrNUASeSic7kJNE=
+		wwZyVLD4WKM6Gm6ojAkDuOBq3I0=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		1Tiapo+kAqg5+k8FbFG599E/qDs=
+		Eb1i3tuYbVT3VtVxjj6gjs9UiiA=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+TcI17strEl6P9LObvrVYrAAtcE=
+		b24DouOzLcfEjDtuzz7p94e3LGs=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1Tiapo+kAqg5+k8FbFG599E/qDs=
+		Eb1i3tuYbVT3VtVxjj6gjs9UiiA=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yhDaUIPZ5z7LJhhduxj562MQl2E=
+		HgWObrPCrDJbfxuSPEX5WcU89Hc=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		uPqXZt7+2c6oIrNUASeSic7kJNE=
+		wwZyVLD4WKM6Gm6ojAkDuOBq3I0=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aFPNI5s1GTxqN/TpDA5yZe+q6hM=
+		J5CHtdkO1qAhTdDI7/e0vtU07gs=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		6iNtnSbMYZSfruTmsZYWN0TSVXs=
+		dktaTArgjfRIxqj2J4r5cDvcNz8=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aFPNI5s1GTxqN/TpDA5yZe+q6hM=
+		J5CHtdkO1qAhTdDI7/e0vtU07gs=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+HOLqZXZIM9mpK0pOoN9gOiH7Ps=
+		PbaTrvp0rMe6f7Z+mM30qm2CBOg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -84,7 +84,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j1rNSZMxk2jHaSldzofLysvgP+I=
+			KM9Htiwnez6Vo0HrdvB+rwBIhsU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AEgooAwsRTCA+SBkzMOPIrVpm1w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -93,7 +102,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YMns4/CXfk/ptDsyAD6EkvFgJ1A=
+			AEgooAwsRTCA+SBkzMOPIrVpm1w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WWpR7v56CrVgjX2gtAA31jGzc8s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr-FR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WL7+TAXF2Uph41FiXKCcJkpXjpQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -109,14 +136,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			++/T+GDJzqOQTadaYvdWl0vujodMLsAd07DiYuECutE=
+			QhcTYHN40WtzhWexBdTQE8r8VlOJ9946biVII8hk3+k=
 			</data>
 		</dict>
 		<key>Headers/Banked-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F3nlx7KppGlvLCXLAouY/kdfTouszY7OST358NPdCA8=
+			3sGLxGyynfnFIXSYKc6cLqYApVDUXL19vgceL3YOHyw=
 			</data>
 		</dict>
 		<key>Headers/Banked.h</key>
@@ -144,70 +171,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z7r959z70dkiMV7Z9YADVGws06+fqpdt2T5zwGckQU8=
+			rQGG09GSp8eXxBSQwKIE3rFAwdpVkuC/gLAnt+n4l6o=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WTYinjoiZ9G2luWV0FCcHen5lvt9/8LeK0ei51W+8lA=
+			qLPtclptmphU1GSU2a/kN6v5MXrpLqhPFaXTH8m83JM=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wT2znzC5fbQwTJKHI04yG3YSayO74yXlIqCVfsX3jV0=
+			29T7k2xTdV5LmmrrVnA90Q4w4oD+EQp77wTViwmFZt0=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WTYinjoiZ9G2luWV0FCcHen5lvt9/8LeK0ei51W+8lA=
+			qLPtclptmphU1GSU2a/kN6v5MXrpLqhPFaXTH8m83JM=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Re6Df3tANTGwtkxdsm+vYYV5CTHuA+ycVzXaYSZvzI=
+			2gChj9fNmQ8QRXQ+jkE+pGb0CzCuZNkdHcNb1VSM3Ck=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z7r959z70dkiMV7Z9YADVGws06+fqpdt2T5zwGckQU8=
+			rQGG09GSp8eXxBSQwKIE3rFAwdpVkuC/gLAnt+n4l6o=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jSIQ1qCJKJRRHNJbV0cT1tKImpAe6p94/G+bhgxN6BE=
+			b1aY8+Rhw/6/IxSPGy/smr1xrh64x7fDcAzeeufeo8E=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kx8uvnz/oEaQ66AvAEFgpxm5NUW6r4GyBVA2tSJOrbM=
+			CjFWQg/uRMriumrl+3S3ce9193UvX4fI8GIxe0dj5M8=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jSIQ1qCJKJRRHNJbV0cT1tKImpAe6p94/G+bhgxN6BE=
+			b1aY8+Rhw/6/IxSPGy/smr1xrh64x7fDcAzeeufeo8E=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jloazIDEuoaVOZqagBi/KkpOYNTHKoE49sH36fn5FHY=
+			0uKewhDuJ/2R7JU/8Ch0MHG/AR4No/dn7DlTtl2dqM4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -235,7 +262,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wywaSnBJQwq8FnL2k0DRv8Ds2b1jA91QFtZiJvUp8jI=
+			lRTAijZGAtJK8EoFhK/tcih75pWWN748q+Fw558WuMQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YlqhIrlXlIKC2ghOXumve1V7khsDyaN6YpCT2lxKTXM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -244,7 +280,25 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kd7HpIPnsHcR5AAltT74lIGFUgsqu5geGPIuFjZBFgw=
+			YlqhIrlXlIKC2ghOXumve1V7khsDyaN6YpCT2lxKTXM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2HpdZyhLczu17tUdw4UkYKTEblOzqRyqb3bH7ceYzw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr-FR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ih+GhAua2NwvVlpi05uVX+idAlxQdYM+0cuDISaxeWA=
 			</data>
 			<key>optional</key>
 			<true/>

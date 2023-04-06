@@ -1,5 +1,18 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.32
+April 6, 2023
+
+### New Features
+* Added support for French and Spanish languages.
+
+### Bug Fixes
+* Fixed an issue with brand name that caused an infinite spinner when checking a payment again in some cases random cases.
+
+### Deprecations
+* Deprecated support from Donation, Transfer and Send actions. Now all actions are Pay, even if we pass a different value.
+It is recommended to start using modern methods without "action" parameter.
+
 ## 0.0.31
 February 16, 2023
 
