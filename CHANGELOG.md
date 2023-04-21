@@ -1,5 +1,12 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.33
+April 21, 2023
+
+### Bug Fixes
+* Fixed issue that allowed presenting the framework twice, which caused side effects. 
+Now, an error will be triggered if user tries to call the framework and it is already loaded.
+
 ## 0.0.32
 April 6, 2023
 

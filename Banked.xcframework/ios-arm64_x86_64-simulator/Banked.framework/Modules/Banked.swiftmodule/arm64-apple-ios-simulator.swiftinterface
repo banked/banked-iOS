@@ -28,6 +28,7 @@ public enum BankedCheckoutError : Swift.Equatable {
   case userCanceled
   case unprocesableEntity
   case genericError
+  case sheetAlreadyPresented
   public static func == (a: Banked.BankedCheckoutError, b: Banked.BankedCheckoutError) -> Swift.Bool
 }
 public enum BankedCheckoutResponse : Swift.Equatable {

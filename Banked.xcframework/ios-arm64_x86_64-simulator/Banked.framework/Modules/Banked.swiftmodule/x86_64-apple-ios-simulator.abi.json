@@ -1017,6 +1017,46 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "sheetAlreadyPresented",
+            "printedName": "sheetAlreadyPresented",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Banked.BankedCheckoutError.Type) -> Banked.BankedCheckoutError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BankedCheckoutError",
+                    "printedName": "Banked.BankedCheckoutError",
+                    "usr": "s:6Banked0A13CheckoutErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Banked.BankedCheckoutError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BankedCheckoutError",
+                        "printedName": "Banked.BankedCheckoutError",
+                        "usr": "s:6Banked0A13CheckoutErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6Banked0A13CheckoutErrorO21sheetAlreadyPresentedyA2CmF",
+            "mangledName": "$s6Banked0A13CheckoutErrorO21sheetAlreadyPresentedyA2CmF",
+            "moduleName": "Banked",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
             "kind": "Function",
             "name": "==",
             "printedName": "==(_:_:)",
@@ -8706,7 +8746,7 @@
       "kind": "StringLiteral",
       "offset": 216,
       "length": 8,
-      "value": "\"0.0.32\""
+      "value": "\"0.0.33\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/ProviderTableViewCell.swift",
@@ -9019,14 +9059,14 @@
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedCheckout.swift",
       "kind": "StringLiteral",
-      "offset": 2450,
+      "offset": 2549,
       "length": 36,
       "value": "\"https:\/\/api.banked.com\/checkout\/v1\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedCheckout.swift",
       "kind": "StringLiteral",
-      "offset": 2361,
+      "offset": 2460,
       "length": 14,
       "value": "\"Banked.BankedCheckout\""
     },
@@ -9138,91 +9178,91 @@
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 2291,
+      "offset": 2449,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 3766,
+      "offset": 3924,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "StringLiteral",
-      "offset": 4713,
+      "offset": 4871,
       "length": 61,
       "value": "\"Banked SDK error: We currently does not support this device\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 4891,
+      "offset": 5049,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 4945,
+      "offset": 5103,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 5144,
+      "offset": 5302,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 5416,
+      "offset": 5574,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 6709,
+      "offset": 6867,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "StringLiteral",
-      "offset": 7058,
+      "offset": 7216,
       "length": 23,
       "value": "\"banked_checkout_state\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "StringLiteral",
-      "offset": 7168,
+      "offset": 7326,
       "length": 20,
       "value": "\"banked_checkout_id\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "StringLiteral",
-      "offset": 7318,
+      "offset": 7476,
       "length": 12,
       "value": "\"AUTHORIZED\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "StringLiteral",
-      "offset": 7525,
+      "offset": 7683,
       "length": 10,
       "value": "\"REJECTED\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/Banked.swift",
       "kind": "BooleanLiteral",
-      "offset": 8338,
+      "offset": 8496,
       "length": 5,
       "value": "false"
     },
