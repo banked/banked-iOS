@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
 // swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Banked
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import Banked
@@ -29,6 +29,7 @@ public enum BankedCheckoutError : Swift.Equatable {
   case unprocesableEntity
   case genericError
   case sheetAlreadyPresented
+  case paymentSessionError
   public static func == (a: Banked.BankedCheckoutError, b: Banked.BankedCheckoutError) -> Swift.Bool
 }
 public enum BankedCheckoutResponse : Swift.Equatable {
@@ -58,8 +59,7 @@ public enum PaymentAction {
   public var baseURL: Foundation.URL? {
     get
   }
-  public func setUp(_ clientKey: Swift.String)
-  public func setUp(clientKey: Swift.String, baseURL: Foundation.URL)
+  public func setUp(_ clientKey: Swift.String, baseURL: Foundation.URL? = nil, countryCode: Swift.String? = nil)
   public func presentCheckout(_ viewController: UIKit.UIViewController, paymentId: Swift.String, continueURL: Swift.String, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)
   @available(*, deprecated, renamed: "presentCheckout(viewController:paymentId:continueURL:completion:)")
   public func presentCheckout(_ viewController: UIKit.UIViewController, paymentId: Swift.String, action: Banked.PaymentAction, continueURL: Swift.String, completion: @escaping (Banked.BankedCheckoutResponse) -> Swift.Void)

@@ -1,5 +1,13 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.34
+June 16, 2023
+
+### New Features
+* Enhanced Setup Method: The setup method now includes an optional countryCode parameter. This parameter can be used to sort payment providers based on the country code. If the countryCode parameter is not provided, the providers will be sorted based on the default setting.
+
+* Improved Payment Status Retrieval: A new polling process has been introduced for retrieving the final state of a payment after it is sent. The framework will make several attempts over approximately 10 seconds to fetch the latest status. This ensures that the app has the most up-to-date information regarding the payment's state, improving the user experience.
+
 ## 0.0.33
 April 21, 2023
 
