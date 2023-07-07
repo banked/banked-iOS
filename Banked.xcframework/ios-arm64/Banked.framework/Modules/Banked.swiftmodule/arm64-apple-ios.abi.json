@@ -4446,1323 +4446,1323 @@
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5032,
+      "offset": 5117,
       "length": 64,
       "value": "\"banked_providers_search_textfield_placeholder_search_all_banks\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5240,
+      "offset": 5325,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5351,
+      "offset": 5434,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5450,
+      "offset": 5533,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5456,
+      "offset": 5539,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5466,
+      "offset": 5549,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5478,
+      "offset": 5561,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5536,
+      "offset": 5619,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5543,
+      "offset": 5626,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5554,
+      "offset": 5637,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5566,
+      "offset": 5649,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5612,
+      "offset": 5695,
       "length": 8,
       "value": "\"search\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5903,
+      "offset": 5986,
       "length": 14,
       "value": "\"_clearButton\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5982,
+      "offset": 6065,
       "length": 7,
       "value": "\"clear\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6094,
+      "offset": 6177,
       "length": 7,
       "value": "\"clear\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7053,
+      "offset": 7136,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7130,
+      "offset": 7213,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7210,
+      "offset": 7293,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7283,
+      "offset": 7366,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7804,
+      "offset": 7887,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8320,
+      "offset": 8403,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8571,
+      "offset": 8654,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8886,
+      "offset": 8969,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8927,
+      "offset": 9010,
       "length": 61,
       "value": "\"Banked SDK error: We currently does not support this device\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9051,
+      "offset": 9134,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9090,
+      "offset": 9173,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9190,
+      "offset": 9273,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9674,
+      "offset": 9757,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9758,
+      "offset": 9841,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9837,
+      "offset": 9920,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9910,
+      "offset": 9993,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9997,
+      "offset": 10080,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10085,
+      "offset": 10168,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10174,
+      "offset": 10257,
       "length": 2,
       "value": "20"
-    },
-    {
-      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10263,
-      "length": 2,
-      "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 10346,
       "length": 2,
-      "value": "20"
+      "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10430,
+      "offset": 10429,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10481,
+      "offset": 10513,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10564,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11970,
+      "offset": 12053,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 12170,
+      "offset": 12253,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12182,
+      "offset": 12265,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 12328,
+      "offset": 12411,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12501,
+      "offset": 12584,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12676,
+      "offset": 12759,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12731,
+      "offset": 12814,
       "length": 61,
       "value": "\"Banked SDK error: We currently does not support this device\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12912,
+      "offset": 12995,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13134,
+      "offset": 13217,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13861,
+      "offset": 13944,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13916,
+      "offset": 13999,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 13955,
+      "offset": 14038,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13967,
+      "offset": 14050,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14237,
+      "offset": 14320,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14314,
+      "offset": 14397,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16171,
+      "offset": 16254,
       "length": 46,
       "value": "\"banked_status_payment_processing_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16242,
+      "offset": 16325,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16398,
+      "offset": 16481,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16402,
+      "offset": 16485,
       "length": 3,
       "value": "380"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16453,
+      "offset": 16536,
       "length": 3,
       "value": "384"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16655,
+      "offset": 16738,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16992,
+      "offset": 17075,
       "length": 46,
       "value": "\"banked_status_payment_processing_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17063,
+      "offset": 17146,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17219,
+      "offset": 17302,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17223,
+      "offset": 17306,
       "length": 3,
       "value": "380"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17274,
+      "offset": 17357,
       "length": 3,
       "value": "384"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17476,
+      "offset": 17559,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17867,
+      "offset": 17950,
       "length": 46,
       "value": "\"banked_status_payment_processing_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18109,
+      "offset": 18192,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18113,
+      "offset": 18196,
       "length": 3,
       "value": "380"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18164,
+      "offset": 18247,
       "length": 3,
       "value": "384"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18366,
+      "offset": 18449,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19270,
+      "offset": 19353,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19274,
+      "offset": 19357,
       "length": 3,
       "value": "380"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19325,
+      "offset": 19408,
       "length": 3,
       "value": "384"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19544,
+      "offset": 19627,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19780,
+      "offset": 19863,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20200,
+      "offset": 20283,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "Array",
-      "offset": 20884,
+      "offset": 20967,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21297,
+      "offset": 21380,
       "length": 3,
       "value": "438"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21384,
+      "offset": 21467,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21810,
+      "offset": 21893,
       "length": 38,
       "value": "\"banked_status_awaiting_payment_title\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21931,
+      "offset": 22014,
       "length": 3,
       "value": "384"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21979,
+      "offset": 22062,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22025,
+      "offset": 22108,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22104,
+      "offset": 22187,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22467,
+      "offset": 22550,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22848,
+      "offset": 22931,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22897,
+      "offset": 22980,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23139,
+      "offset": 23222,
       "length": 3,
       "value": "640"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23411,
+      "offset": 23494,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23778,
+      "offset": 23861,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23920,
+      "offset": 24003,
       "length": 63,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23948,
+      "offset": 24031,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23982,
+      "offset": 24065,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24148,
+      "offset": 24231,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24210,
+      "offset": 24293,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24271,
+      "offset": 24354,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24580,
+      "offset": 24663,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24610,
+      "offset": 24693,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24750,
+      "offset": 24833,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25032,
+      "offset": 25115,
       "length": 23,
       "value": "\"ProviderTableViewCell\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25117,
+      "offset": 25200,
       "length": 23,
       "value": "\"Unexpected Index Path\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25643,
+      "offset": 25726,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25669,
+      "offset": 25752,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26191,
+      "offset": 26274,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26241,
+      "offset": 26324,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26438,
+      "offset": 26521,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 26489,
+      "offset": 26572,
       "length": 30,
       "value": "\"multiple-provider-types-cell\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27061,
+      "offset": 27144,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27305,
+      "offset": 27388,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27387,
+      "offset": 27470,
       "length": 45,
       "value": "\"banked_providers_no_search_results_template\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27464,
+      "offset": 27547,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27603,
+      "offset": 27686,
       "length": 33,
       "value": "\"banked_providers_search_results\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27696,
+      "offset": 27779,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27761,
+      "offset": 27844,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27840,
+      "offset": 27923,
       "length": 28,
       "value": "\"banked_providers_suggested\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27971,
+      "offset": 28054,
       "length": 26,
       "value": "\"banked_providers_popular\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 28110,
+      "offset": 28193,
       "length": 28,
       "value": "\"banked_providers_all_banks\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 28819,
+      "offset": 28902,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28831,
+      "offset": 28914,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29051,
+      "offset": 29134,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29084,
+      "offset": 29167,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29757,
+      "offset": 29840,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29848,
+      "offset": 29931,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30028,
+      "offset": 30111,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30185,
+      "offset": 30268,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 30318,
+      "offset": 30401,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30330,
+      "offset": 30413,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 30551,
+      "offset": 30634,
       "length": 4,
       "value": "0.15"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 30770,
+      "offset": 30853,
       "length": 4,
       "value": "0.20"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31023,
+      "offset": 31106,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 31073,
+      "offset": 31156,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31166,
+      "offset": 31249,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31333,
+      "offset": 31416,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31842,
+      "offset": 31925,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31975,
+      "offset": 32058,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 32060,
+      "offset": 32143,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 32341,
+      "offset": 32424,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 32353,
+      "offset": 32436,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 32590,
+      "offset": 32673,
       "length": 4,
       "value": "0.15"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32726,
+      "offset": 32809,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 33023,
+      "offset": 33106,
       "length": 4,
       "value": "0.20"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 33245,
+      "offset": 33328,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 33692,
+      "offset": 33775,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 33819,
+      "offset": 33902,
       "length": 4,
       "value": "0.15"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 33963,
+      "offset": 34046,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 34271,
+      "offset": 34354,
       "length": 4,
       "value": "0.20"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34506,
+      "offset": 34589,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 34587,
+      "offset": 34670,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 34637,
+      "offset": 34720,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34649,
+      "offset": 34732,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 34937,
+      "offset": 35020,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 34949,
+      "offset": 35032,
       "length": 4,
       "value": "0.15"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35152,
+      "offset": 35235,
       "length": 59,
       "value": "\"Banked SDK error: We currently do not support this device\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35472,
+      "offset": 35555,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35727,
+      "offset": 35810,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35733,
+      "offset": 35816,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35743,
+      "offset": 35826,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35755,
+      "offset": 35838,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35813,
+      "offset": 35896,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35820,
+      "offset": 35903,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35831,
+      "offset": 35914,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35843,
+      "offset": 35926,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35889,
+      "offset": 35972,
       "length": 15,
       "value": "\"search-active\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36069,
+      "offset": 36152,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36277,
+      "offset": 36360,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36283,
+      "offset": 36366,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36293,
+      "offset": 36376,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36305,
+      "offset": 36388,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36363,
+      "offset": 36446,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36370,
+      "offset": 36453,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36381,
+      "offset": 36464,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36393,
+      "offset": 36476,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 36439,
+      "offset": 36522,
       "length": 8,
       "value": "\"search\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "Array",
-      "offset": 40203,
+      "offset": 40286,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 41357,
+      "offset": 41440,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 41481,
+      "offset": 41564,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 41493,
+      "offset": 41576,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 41749,
+      "offset": 41832,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 41923,
+      "offset": 42006,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41974,
+      "offset": 42057,
       "length": 61,
       "value": "\"Banked SDK error: We currently does not support this device\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 42120,
+      "offset": 42203,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 42835,
+      "offset": 42918,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42980,
+      "offset": 43063,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43021,
+      "offset": 43104,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 43033,
+      "offset": 43116,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43184,
+      "offset": 43267,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43308,
+      "offset": 43391,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43363,
+      "offset": 43446,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43647,
+      "offset": 43730,
       "length": 4,
       "value": "true"
     },
@@ -9089,7 +9089,7 @@
       "kind": "StringLiteral",
       "offset": 216,
       "length": 8,
-      "value": "\"0.0.34\""
+      "value": "\"0.0.35\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/ProviderTableViewCell.swift",
@@ -12664,756 +12664,756 @@
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 12568,
+      "offset": 12596,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 12594,
+      "offset": 12622,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 12917,
+      "offset": 12945,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 12971,
+      "offset": 12999,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 13141,
+      "offset": 13169,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 13212,
+      "offset": 13240,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 14542,
+      "offset": 14570,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 14798,
+      "offset": 14826,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15065,
+      "offset": 15093,
       "length": 54,
       "value": "\"banked_status_payment_successful_toolbar_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15191,
+      "offset": 15219,
       "length": 49,
       "value": "\"banked_status_payment_authenticated_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15347,
+      "offset": 15375,
       "length": 52,
       "value": "\"banked_status_payment_authenticated_subtitle_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15513,
+      "offset": 15541,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15702,
+      "offset": 15730,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15738,
+      "offset": 15766,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16116,
+      "offset": 16144,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16174,
+      "offset": 16202,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16360,
+      "offset": 16388,
       "length": 50,
       "value": "\"banked_status_payment_failed_toolbar_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16467,
+      "offset": 16495,
       "length": 50,
       "value": "\"banked_status_payment_failed_toolbar_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16577,
+      "offset": 16605,
       "length": 45,
       "value": "\"banked_status_payment_failed_subtitle_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16710,
+      "offset": 16738,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16900,
+      "offset": 16928,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16936,
+      "offset": 16964,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 17261,
+      "offset": 17289,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 17382,
+      "offset": 17410,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17770,
+      "offset": 17798,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 18234,
+      "offset": 18262,
       "length": 57,
       "value": "\"banked_status_payment_authenticated_toolbar_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 18347,
+      "offset": 18375,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18831,
+      "offset": 18859,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19034,
+      "offset": 19062,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19070,
+      "offset": 19098,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 19821,
+      "offset": 19849,
       "length": 45,
       "value": "\"banked_status_payment_cancelled_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20215,
+      "offset": 20243,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20439,
+      "offset": 20467,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20474,
+      "offset": 20502,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20994,
+      "offset": 21022,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21061,
+      "offset": 21089,
       "length": 45,
       "value": "\"banked_status_payment_cancelled_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21163,
+      "offset": 21191,
       "length": 38,
       "value": "\"banked_common_error_unknown_snackbar\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21261,
+      "offset": 21289,
       "length": 41,
       "value": "\"banked_common_error_connection_snackbar\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21370,
+      "offset": 21398,
       "length": 34,
       "value": "\"banked_common_button_retry_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21459,
+      "offset": 21487,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21494,
+      "offset": 21522,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Dictionary",
-      "offset": 21801,
+      "offset": 21829,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Dictionary",
-      "offset": 22134,
+      "offset": 22162,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 23189,
+      "offset": 23217,
       "length": 41,
       "value": "\"banked_common_error_connection_snackbar\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 23390,
+      "offset": 23418,
       "length": 38,
       "value": "\"banked_common_error_unknown_snackbar\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 24027,
+      "offset": 24055,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 25141,
+      "offset": 25169,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 25340,
+      "offset": 25368,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 25354,
+      "offset": 25382,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 26388,
+      "offset": 26416,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 26682,
+      "offset": 26710,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 27241,
+      "offset": 27269,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27492,
+      "offset": 27520,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 27743,
+      "offset": 27771,
       "length": 49,
       "value": "\"banked_status_payment_authenticated_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 27896,
+      "offset": 27924,
       "length": 52,
       "value": "\"banked_status_payment_authenticated_subtitle_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 28286,
+      "offset": 28314,
       "length": 42,
       "value": "\"banked_status_payment_failed_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 28432,
+      "offset": 28460,
       "length": 45,
       "value": "\"banked_status_payment_failed_subtitle_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 28562,
+      "offset": 28590,
       "length": 49,
       "value": "\"banked_status_payment_failed_retry_button_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 29236,
+      "offset": 29264,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 29276,
+      "offset": 29304,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 29702,
+      "offset": 29730,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 30537,
+      "offset": 30565,
       "length": 42,
       "value": "\"Invalid state retrying, not enough data.\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 32883,
+      "offset": 32911,
       "length": 50,
       "value": "\"banked_status_payment_failed_toolbar_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 33091,
+      "offset": 33119,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33399,
+      "offset": 33427,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33683,
+      "offset": 33711,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33734,
+      "offset": 33762,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 34087,
+      "offset": 34115,
       "length": 37,
       "value": "\"banked_status_awaiting_payment_body\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 35093,
+      "offset": 35121,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 37387,
+      "offset": 37415,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 38339,
+      "offset": 38367,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 38558,
+      "offset": 38586,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 38623,
+      "offset": 38651,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 38694,
+      "offset": 38722,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 38831,
+      "offset": 38859,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 39154,
+      "offset": 39182,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 39362,
+      "offset": 39390,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 39487,
+      "offset": 39515,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 39868,
+      "offset": 39896,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 39910,
+      "offset": 39938,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 41024,
+      "offset": 41052,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 41028,
+      "offset": 41056,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 41353,
+      "offset": 41381,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 41884,
+      "offset": 41912,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 41888,
+      "offset": 41916,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 42115,
+      "offset": 42143,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 43236,
+      "offset": 43264,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 44409,
+      "offset": 44437,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 45281,
+      "offset": 45309,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 45577,
+      "offset": 45605,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 45790,
+      "offset": 45818,
       "length": 54,
       "value": "\"banked_status_payment_successful_toolbar_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 46054,
+      "offset": 46082,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 46102,
+      "offset": 46130,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 46420,
+      "offset": 46448,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 46598,
+      "offset": 46626,
       "length": 50,
       "value": "\"banked_status_payment_failed_toolbar_title_label\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 46805,
+      "offset": 46833,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 47102,
+      "offset": 47130,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 47366,
+      "offset": 47394,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 47413,
+      "offset": 47441,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 48005,
+      "offset": 48033,
       "length": 43,
       "value": "\"banked_common_error_unknown_toolbar_title\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 48279,
+      "offset": 48307,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 48635,
+      "offset": 48663,
       "length": 35,
       "value": "\"Result validating IBAN: \""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 48669,
+      "offset": 48697,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 49453,
+      "offset": 49481,
       "length": 54,
       "value": "\"Error validating IBAN: \""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 49506,
+      "offset": 49534,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 50116,
+      "offset": 50144,
       "length": 41,
       "value": "\"banked_common_error_connection_snackbar\""
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "Array",
-      "offset": 50444,
+      "offset": 50472,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ricardo\/Desktop\/Banked\/banked-ios-sdk-new\/Framework\/Banked\/BankedActionSheetViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 51791,
+      "offset": 51819,
       "length": 5,
       "value": "false"
     },

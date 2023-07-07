@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hxUsnZ7GBikDL2qINe0rsnZ4JWQ=
+		rgXJObR33uaHrfdfOfY5X5xVwUg=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		l/jeCyiCKryp9iVlHGc89158n9g=
+		kIwd8q3oVJJC9BGTErCao1Uv7Ks=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KBXkhaAhlOaZvkoCwbjPTTcCDdg=
+		XhxzhvgVsPB7oka0Z8K3NBmFSOE=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		l/jeCyiCKryp9iVlHGc89158n9g=
+		kIwd8q3oVJJC9BGTErCao1Uv7Ks=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YH+psprhqP+8jpeyX6wv2m+pb8M=
+		CWM+8NqnpSP8iYwLDUbi7r1OXiI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KLeLYDdgl394oYdLnwZSaBzs4vVKsDkEOig6rax+pFE=
+			S//Zyg+OZqxFPyjCH/f1JhE7dTpm9TrB8FFYz2VuvBs=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -199,14 +199,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x8xRth2z4UL+VWpBqAkAkUtqqGl6uFUVKMJoW1RpKVA=
+			fZ7QRlzRDMGXK3Abnnzs/6eUJnM0LI6sYqc1zhLL0OM=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KLeLYDdgl394oYdLnwZSaBzs4vVKsDkEOig6rax+pFE=
+			S//Zyg+OZqxFPyjCH/f1JhE7dTpm9TrB8FFYz2VuvBs=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -234,7 +234,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wALqH1ADQ5vlkweM1V4T1v00VwIpGDiAMh16yPepkr0=
+			9mVmcfCeOAjJZpe0jOXPufEbxxoFQrhs6sCI9bVNsi4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

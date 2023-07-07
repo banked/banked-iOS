@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.35
+July 7, 2023
+
+### Bug Fixes
+* Fixed occasional crash when filtering providers while using auto-correction.
+
 ## 0.0.34
 June 16, 2023
 
