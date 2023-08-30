@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.36
+August 30, 2023
+
+### New Features
+* Added support for Dutch language
+
 ## 0.0.35
 July 7, 2023
 

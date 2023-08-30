@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rgXJObR33uaHrfdfOfY5X5xVwUg=
+		BTp6a1duMJWG3/E7o5f6VnoAUCo=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kIwd8q3oVJJC9BGTErCao1Uv7Ks=
+		ey7PuHwvzVLUwzDte417oQJJ/z0=
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XhxzhvgVsPB7oka0Z8K3NBmFSOE=
+		9grsAZFxJWAvjReauKkfAY7CE0o=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kIwd8q3oVJJC9BGTErCao1Uv7Ks=
+		ey7PuHwvzVLUwzDte417oQJJ/z0=
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CWM+8NqnpSP8iYwLDUbi7r1OXiI=
+		VIr578YajQgrsApaPBpfSf8S+to=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -84,7 +84,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x5gbdI5FxjV0Db4ZeHAHYH94IeU=
+			/rfwwTS779Q5jl2e5U3UmmOXKYM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kGueav+A6JG9Rgdjv43ZuHVg4f4=
+			TsSOrPzTeAO7JQ+dPSdgbnbuiUk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -102,7 +102,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kGueav+A6JG9Rgdjv43ZuHVg4f4=
+			TsSOrPzTeAO7JQ+dPSdgbnbuiUk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oRbpDEVeWjqv+lA1P+RiUBAsqug=
+			rdeBOiWtgUc6cB8mEo2HnfcEEgA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jRF7mWy8W/2YhFqoSLtrjP72Y8s=
+			evFrhnDlZhIkynxtUttiPA2O1dM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -129,6 +129,15 @@
 		<data>
 		eyZ6Wl+r69mQghpfogaDrp1ZnWg=
 		</data>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZJkw4oTemdxStXVbTwCRcYU4zkY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -171,7 +180,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S//Zyg+OZqxFPyjCH/f1JhE7dTpm9TrB8FFYz2VuvBs=
+			4wapY7xft/2877WVAoy6D/fsZT2AUpjkNRVYCw7l5nY=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -199,14 +208,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZ7QRlzRDMGXK3Abnnzs/6eUJnM0LI6sYqc1zhLL0OM=
+			DVROLVUiNsL9Bc17eKjpAU1wqetx+5EC4Ul+1TlJ68c=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S//Zyg+OZqxFPyjCH/f1JhE7dTpm9TrB8FFYz2VuvBs=
+			4wapY7xft/2877WVAoy6D/fsZT2AUpjkNRVYCw7l5nY=
 			</data>
 		</dict>
 		<key>Modules/Banked.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -234,7 +243,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9mVmcfCeOAjJZpe0jOXPufEbxxoFQrhs6sCI9bVNsi4=
+			lXyN4VhMlLNqy1cv2qCtpY2ngpxZmXdkAwkHB1LssaA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -262,7 +271,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W0QGB/fg+j2rzZft73HrhstcglpZlb09noOfYLjQNaY=
+			3yd389p+pCkOmK6QGw61o131FkS9rLxOQykKsRGV3RA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -271,7 +280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZcdoNPQGvirM8QGoMYvtxRogoJYi1g1ol86ZpyNw6Ns=
+			iK4p3sN49BBngcjyivy9uNb9Yr0X/sEGmt+IjgYt5Ew=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -280,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZcdoNPQGvirM8QGoMYvtxRogoJYi1g1ol86ZpyNw6Ns=
+			iK4p3sN49BBngcjyivy9uNb9Yr0X/sEGmt+IjgYt5Ew=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -289,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H6E9FSdIVg7M7GvacxUKhJbn8/7eejq9MHZ0hr3E8gw=
+			dMX8vP6O5ewkqYiKXnnUzsR926VGam/FSj50KC86KmY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -298,7 +307,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KFC3Cop/U3Xuys8HWxCn2MumOPQ4BT6gpmqXi7FX9Rw=
+			3D97ymfrHe2tkoa98afNwm9RITER2rY8sEgN2deElsk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -309,6 +318,15 @@
 			<data>
 			6x3cnlvl2ogbrFLiKKeOsbimXzH5P9djvgqeWMg7xqc=
 			</data>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R9s7WWaEupq+fOHAyD8CdcN9ZCFu6cXfhAewuMheQG4=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
