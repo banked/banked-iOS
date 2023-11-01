@@ -1,7 +1,7 @@
 framework module Banked {
   umbrella header "Banked.h"
-
   export *
+
   module * { export * }
 }
 

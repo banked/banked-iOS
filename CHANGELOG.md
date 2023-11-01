@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.37
+November 1, 2023
+
+### New Features
+* Added support for end to end id
+
 ## 0.0.36
 August 30, 2023
 
