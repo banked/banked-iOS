@@ -19,6 +19,6 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/banked/banked-iOS.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = 'Banked.xcframework'
   spec.swift_version = "5.5"
-  spec.ios.deployment_target  = '11.0'
+  spec.ios.deployment_target  = '12.0'
 
 end
