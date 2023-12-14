@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Banked"
-  spec.version      = "0.0.37"
+  spec.version      = "0.0.38"
   spec.summary      = "Banked SDK"
   spec.description  = "Banked iOS checkout"
   spec.homepage     = "https://github.com/banked/banked-iOS.git"
