@@ -1,10 +1,17 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.39
+December 18, 2023
+
+### Bug Fixes
+* Copy updates
+
 ## 0.0.38
 December 14, 2023
 
 ### New Features
 * Added support for Ireland
+
 ## 0.0.37
 November 1, 2023
 

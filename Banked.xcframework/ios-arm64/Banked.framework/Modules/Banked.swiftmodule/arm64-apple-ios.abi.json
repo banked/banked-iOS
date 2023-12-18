@@ -9152,7 +9152,7 @@
       "kind": "StringLiteral",
       "offset": 216,
       "length": 8,
-      "value": "\"0.0.38\""
+      "value": "\"0.0.39\""
     },
     {
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/ProviderTableViewCell.swift",
@@ -12013,191 +12013,23 @@
     {
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3165,
-      "length": 4,
-      "value": "\"gb\""
+      "offset": 3138,
+      "length": 41,
+      "value": "\"banked_summary_pay_by_bank_button_label\""
     },
     {
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3203,
-      "length": 44,
-      "value": "\"banked_summary_pay_by_bank_button_label_gb\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3262,
-      "length": 4,
-      "value": "\"de\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3268,
-      "length": 4,
-      "value": "\"fr\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3274,
-      "length": 4,
-      "value": "\"es\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3280,
-      "length": 4,
-      "value": "\"nl\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3286,
-      "length": 4,
-      "value": "\"ie\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3324,
-      "length": 44,
-      "value": "\"banked_summary_pay_by_bank_button_label_eu\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3419,
-      "length": 44,
-      "value": "\"banked_summary_pay_by_bank_button_label_gb\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3592,
-      "length": 4,
-      "value": "\"gb\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3630,
+      "offset": 3271,
       "length": 25,
       "value": "\"banked_welcome_title_gb\""
     },
     {
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3670,
-      "length": 4,
-      "value": "\"de\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3676,
-      "length": 4,
-      "value": "\"fr\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3682,
-      "length": 4,
-      "value": "\"es\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3688,
-      "length": 4,
-      "value": "\"nl\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3694,
-      "length": 4,
-      "value": "\"ie\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3732,
-      "length": 25,
-      "value": "\"banked_welcome_title_eu\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3808,
-      "length": 25,
-      "value": "\"banked_welcome_title_gb\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3980,
-      "length": 4,
-      "value": "\"gb\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4018,
-      "length": 47,
-      "value": "\"banked_term_and_conditions_full_text_label_gb\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4080,
-      "length": 4,
-      "value": "\"de\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4086,
-      "length": 4,
-      "value": "\"fr\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4092,
-      "length": 4,
-      "value": "\"es\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4098,
-      "length": 4,
-      "value": "\"nl\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4104,
-      "length": 4,
-      "value": "\"ie\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4142,
-      "length": 47,
-      "value": "\"banked_term_and_conditions_full_text_label_eu\""
-    },
-    {
-      "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4240,
-      "length": 47,
-      "value": "\"banked_term_and_conditions_full_text_label_gb\""
+      "offset": 3406,
+      "length": 44,
+      "value": "\"banked_term_and_conditions_full_text_label\""
     },
     {
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/BankedUIKit\/SuccessView.swift",
