@@ -9152,7 +9152,7 @@
       "kind": "StringLiteral",
       "offset": 216,
       "length": 8,
-      "value": "\"0.0.39\""
+      "value": "\"0.0.40\""
     },
     {
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/ProviderTableViewCell.swift",
@@ -12021,13 +12021,13 @@
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
       "kind": "StringLiteral",
       "offset": 3271,
-      "length": 25,
-      "value": "\"banked_welcome_title_gb\""
+      "length": 22,
+      "value": "\"banked_welcome_title\""
     },
     {
       "filePath": "\/Users\/kristinaborisova\/work\/banked-ios-sdk-new\/Framework\/Banked\/Helpers\/StringsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3406,
+      "offset": 3403,
       "length": 44,
       "value": "\"banked_term_and_conditions_full_text_label\""
     },

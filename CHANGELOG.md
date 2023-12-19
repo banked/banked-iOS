@@ -1,5 +1,11 @@
 # Banked Checkout SDK Changelog
 
+## 0.0.40
+December 18, 2023
+
+### Bug Fixes
+* Fixed translations
+
 ## 0.0.39
 December 18, 2023
 
